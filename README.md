@@ -1,6 +1,14 @@
 # 👋 Hello, I'm PtitCalin!
+[![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat&logo=appveyor&logoColor=white&theme=calm)](./LICENSE.md)
+[![Content License: CC-BY-4.0](https://img.shields.io/badge/Content%20License-CC--BY%204.0-lightgrey?style=flat&logo=creative-commons&theme=calm)](./LICENSE_CONTENT.md)
+[![Built with Obsidian](https://img.shields.io/badge/Built%20With-Obsidian-blueviolet?style=flat&logo=obsidian&logoColor=white&theme=calm)](https://obsidian.md)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat&theme=calm)](./CONTRIBUTING.md)
+[![Buy Me A Coffee](https://img.shields.io/badge/Support-Buy%20Me%20A%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pticalindop)
+
 
 🌱 New to the Dev scenem I'm a creative experimenter, and lifelong learner, currently building the **Awesome Test Vault** — a digital playground for structured growth, learning, and second-brain system design.
+
+
 
 🔭 Right now, I'm focused on:
 - Building modular learning systems inside [Obsidian](https://obsidian.md)
@@ -46,4 +54,12 @@ If you enjoy what I'm building or want to encourage my creative growth:
 
 ---
 
-🌱 **Stay curious. Stay kind. Build something extraordinary.**
+## 📊 GitHub Stats
+
+![Charlie’s GitHub stats](https://github-readme-stats.vercel.app/api?username=PtitCalin&show_icons=true&theme=calm&hide=issues)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PtitCalin&layout=compact&theme=calm)
+[![Profile Views](https://komarev.com/ghpvc/?username=PtitCalin&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/PtitCalin)
+
+---
+
+🌱 **Stay curious, kind and build something extraordinary!**
