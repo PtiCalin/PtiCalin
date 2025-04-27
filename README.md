@@ -4,9 +4,10 @@
 [![Built with Obsidian](https://img.shields.io/badge/Built%20With-Obsidian-blueviolet?style=flat&logo=obsidian&logoColor=white&theme=calm)](https://obsidian.md)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat&theme=calm)](./CONTRIBUTING.md)
 [![Buy Me A Coffee](https://img.shields.io/badge/Support-Buy%20Me%20A%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pticalindop)
+[![Profile Views](https://komarev.com/ghpvc/?username=PtitCalin&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/PtitCalin)
 
 
-🌱 New to the Dev scenem I'm a creative experimenter, and lifelong learner, currently building the **Awesome Test Vault** — a digital playground for structured growth, learning, and second-brain system design.
+🌱 New to the Dev scene I'm a creative experimenter, and lifelong learner, currently building the **Awesome Test Vault** — a digital playground for structured growth, learning, and second-brain system design.
 
 
 
@@ -43,7 +44,7 @@
 ## ☕ Support My Journey
 
 If you enjoy what I'm building or want to encourage my creative growth:  
-[![Buy Me A Coffee](https://img.shields.io/badge/Support-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pticalindop)
+[![Buy Me A Coffee](https://img.shields.io/badge/Support-Buy%20Me%20A%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pticalindop)
 
 ---
 
@@ -57,8 +58,9 @@ If you enjoy what I'm building or want to encourage my creative growth:
 ## 📊 GitHub Stats
 
 ![Charlie’s GitHub stats](https://github-readme-stats.vercel.app/api?username=PtitCalin&show_icons=true&theme=calm&hide=issues)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PtitCalin&layout=compact&theme=calm)
-[![Profile Views](https://komarev.com/ghpvc/?username=PtitCalin&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/PtitCalin)
+
 
 ---
 
