@@ -1,4 +1,4 @@
-# 👋 Hello, I'm PtitCalin!
+# Hello, I'm PtitCalin! 👋 
 [![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat&logo=appveyor&logoColor=white&theme=calm)](./LICENSE.md)
 [![Content License: CC-BY-4.0](https://img.shields.io/badge/Content%20License-CC--BY%204.0-lightgrey?style=flat&logo=creative-commons&theme=calm)](./LICENSE_CONTENT.md)
 [![Built with Obsidian](https://img.shields.io/badge/Built%20With-Obsidian-blueviolet?style=flat&logo=obsidian&logoColor=white&theme=calm)](https://obsidian.md)
