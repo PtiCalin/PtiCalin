@@ -1,4 +1,4 @@
-# Hello, I'm PtitCalin! 👋 
+# Hello, I'm PtiCalin! 👋 
 [![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat&logo=appveyor&logoColor=white&theme=calm)](./LICENSE.md)
 [![Content License: CC-BY-4.0](https://img.shields.io/badge/Content%20License-CC--BY%204.0-lightgrey?style=flat&logo=creative-commons&theme=calm)](./LICENSE_CONTENT.md)
 [![Built with Obsidian](https://img.shields.io/badge/Built%20With-Obsidian-blueviolet?style=flat&logo=obsidian&logoColor=white&theme=calm)](https://obsidian.md)
@@ -22,7 +22,7 @@
 
 ## 🚀 Current Projects
 
-- **[Awesome Test Vault](https://github.com/PtitCalin/Awesome-Test-Vault)** — A second brain, learning lab, and modular digital ecosystem built in Obsidian.
+- **[Awesome Test Vault](https://github.com/PtiCalin/Awesome-Test-Vault)** — A second brain, learning lab, and modular digital ecosystem built in Obsidian.
 
 
 🌌 I'm also quietly nurturing the seeds of **Welcome to Veridonia**, a long-term creative universe project that combines worldbuilding, storytelling, and system design — more to come in the future!
@@ -56,11 +56,11 @@ If you enjoy what I'm building or want to encourage my creative growth:
 ---
 
 ## 📊 GitHub Stats
-[![Profile Views](https://komarev.com/ghpvc/?username=PtitCalin&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/PtitCalin)
+[![Profile Views](https://komarev.com/ghpvc/?username=PtiCalin&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/PtitCalin)
 
-![Charlie’s GitHub stats](https://github-readme-stats.vercel.app/api?username=PtitCalin&show_icons=true&theme=calm&hide=issues)
+![Charlie’s GitHub stats](https://github-readme-stats.vercel.app/api?username=PtiCalin&show_icons=true&theme=calm&hide=issues)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PtitCalin&layout=compact&theme=calm)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PtiCalin&layout=compact&theme=calm)
 
 
 ---
