@@ -56,7 +56,7 @@ If you enjoy what I'm building or want to encourage my creative growth:
 ---
 
 ## 📊 GitHub Stats
-[![Profile Views](https://komarev.com/ghpvc/?username=PtiCalin&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/PtitCalin)
+[![Profile Views](https://komarev.com/ghpvc/?username=PtiCalin&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/PtiCalin)
 
 ![Charlie’s GitHub stats](https://github-readme-stats.vercel.app/api?username=PtiCalin&show_icons=true&theme=calm&hide=issues)
 
