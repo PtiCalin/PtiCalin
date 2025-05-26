@@ -63,7 +63,7 @@ If you enjoy what I'm building or want to encourage my creative growth:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PtiCalin&layout=compact&theme=calm&hide_border=true&langs_count=6)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PtiCalin&theme=calm&column=6&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PtiCalin&theme=onedark&column=6&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
