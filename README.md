@@ -56,12 +56,14 @@ If you enjoy what I'm building or want to encourage my creative growth:
 ---
 
 ## 📊 GitHub Stats
-[![Profile Views](https://komarev.com/ghpvc/?username=PtiCalin&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/PtiCalin)
 
-![Charlie’s GitHub stats](https://github-readme-stats.vercel.app/api?username=PtiCalin&show_icons=true&theme=calm&hide=issues)
+[![Profile Views](https://komarev.com/ghpvc/?username=PtiCalin&label=Profile%20Views&color=6A8CAF&style=flat-square)](https://github.com/PtiCalin)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PtiCalin&layout=compact&theme=calm)
+![Charlie’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=PtiCalin&show_icons=true&theme=calm&hide=issues&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PtiCalin&layout=compact&theme=calm&hide_border=true&langs_count=6)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PtiCalin&theme=calm&column=6&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
