@@ -24,7 +24,7 @@
 ### 🚀 My Projects
 
 - 🧪 **[Awesome Test Vault](https://github.com/PtiCalin/Awesome-Test-Vault)** — My experimental second brain & digital lab.
-- 🌀 **Welcome to Veridonia** — A long-term project in worldbuilding, RPG mechanics, and story architecture (coming soon).
+- 🌀 **Welcome to Veridonia** — A long-term project in worldbuilding, RPG mechanics, and story architecture (coming... at some point?).
 
 #### Why the Awesome Test Vault?
 
