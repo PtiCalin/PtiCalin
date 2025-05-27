@@ -34,9 +34,9 @@ By sharing everything I create, I hope to support others who are also learning h
 
 ---
 
-### 🛠️ Tools I Love (Fully Clickable Edition)
+### 🛠️ Tools I Love
 
-Below are the tools that shape my workflows, spark creativity, and power my projects with each badge links directly to the official site of the tool.
+Below are the tools that shape my workflows, spark creativity, and power my projects.
 
 <details>
 <summary><b>🧠 Knowledge, Notes & Research</b></summary>
