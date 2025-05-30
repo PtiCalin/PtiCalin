@@ -23,8 +23,6 @@
 
 ### 🚀 My Projects
 
-### 🚀 My Projects
-
 - 🧪 **[Awesome Test Vault](https://github.com/PtiCalin/Awesome-Test-Vault)** — My experimental second brain & digital lab.
 - 🧠 **[VaultOS](https://github.com/PtiCalin/VaultOS)** — A modular plugin orchestrator for Obsidian that manages subplugins, automates scaffolding, validates modules, and powers dynamic plugin development.
 - 🌀 **Welcome to Veridonia** — A long-term project in worldbuilding, RPG mechanics, and story architecture (coming... at some point?).
