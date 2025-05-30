@@ -29,12 +29,6 @@
 - 🧠 **[VaultOS](https://github.com/PtiCalin/VaultOS)** — A modular plugin orchestrator for Obsidian that manages subplugins, automates scaffolding, validates modules, and powers dynamic plugin development.
 - 🌀 **Welcome to Veridonia** — A long-term project in worldbuilding, RPG mechanics, and story architecture (coming... at some point?).
 
-#### Why the Awesome Test Vault?
-
-The Awesome Test Vault is my space to learn out loud and experiment while creating systems that improve how seamlessly I am able to compile and organize my thoughts using the power of computers. My goal is to build tools that grow with me, templates that teach as they function, and workflows that turn chaos into clarity.
-
-By sharing everything I create, I hope to support others who are also learning how to learn, how to build, and how to think for themselves.
-
 ---
 
 ### 🛠️ Tools I Love
