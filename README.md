@@ -191,24 +191,13 @@ Below are the tools that shape my workflows, spark creativity, and power my proj
 
 ---
 
-### ☕ Support My Journey
+#### ☕ Support My Journey
 
 <p align="center">
   <a href="https://buymeacoffee.com/pticalindop">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 </p>
-
----
-
-### 💬 Let’s Connect
-
-<p align="center">
-  Open to ideas, collaborations, and curiosity quests.  
-  Always building, always learning.
-</p>
-
-
 
 </table>
 
