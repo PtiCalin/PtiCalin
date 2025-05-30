@@ -14,7 +14,7 @@
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square)](./CONTRIBUTING.md)
 
 🔭 Right now, I'm focused on:
-- Building smart learning systems inside [Obsidian](https://obsidian.md)
+- Building smart learning systems inside **[Obsidian](https://obsidian.md)**
 - Designing workflows, templates & modular documentation
 - Exploring scripting languages, automation & creative tooling
 
