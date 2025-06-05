@@ -8,10 +8,12 @@
 
 ### 🌟 About Me
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](./LICENSE.md)
-[![Content License: CC-BY-4.0](https://img.shields.io/badge/Content%20License-CC--BY%204.0-lightgrey?style=flat-square)](./LICENSE_CONTENT.md)
-[![Built with Obsidian](https://img.shields.io/badge/Built%20With-Obsidian-blueviolet?style=flat-square)](https://obsidian.md)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square)](./CONTRIBUTING.md)
+[![📆 Starting Out - 2025](https://img.shields.io/badge/📆-Start--%202025-blue?style=flat-square)](https://github.com/PtiCalin)
+[![🛠️ VaultOS](https://img.shields.io/badge/🛠️-VaultOS-purple?style=flat-square)](https://github.com/PtiCalin/VaultOS)
+[![🛠️ Awesome Test Vault](https://img.shields.io/badge/🛠️-Awesome--Test--Vault-8a2be2?style=flat-square)](https://github.com/PtiCalin/Awesome-Test-Vault)
+[![🔧 Active Issues](https://img.shields.io/github/issues/PtiCalin/Awesome-Test-Vault?label=Active%20Issues&style=flat-square)](https://github.com/PtiCalin/Awesome-Test-Vault/issues)
+[![🧪 Test Space](https://img.shields.io/badge/🧪-Learning%20by%20Doing-orange?style=flat-square)](https://github.com/PtiCalin/Awesome-Test-Vault)
+[![💬 Connect](https://img.shields.io/badge/💬-Say%20Hi-brightgreen?style=flat-square)](./CONTRIBUTING.md)
 
 🔭 Right now, I'm focused on:
 - Building smart learning systems inside **[Obsidian](https://obsidian.md)**
