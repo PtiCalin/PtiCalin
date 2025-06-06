@@ -176,13 +176,13 @@ Below are the tools that shape my workflows, spark creativity, and power my proj
 
   <!-- GitHub Stats -->
   <a href="https://github.com/PtiCalin">
-    <img src="https://github-readme-stats.vercel.app/api?username=PtiCalin&show_icons=true&theme=calm&count_private=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username-PtiCalin&show_icons=true&theme=calm&count_private=true&hide_border=true" />
   </a>
   <br><br>
 
   <!-- Top Languages -->
   <a href="https://github.com/PtiCalin">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PtiCalin&layout=compact&theme=calm&hide_border=true&langs_count=16" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username-PtiCalin&layout=compact&theme=calm&hide_border=true&langs_count=16" alt="Top Languages" />
   </a>
   <br><br>
 
