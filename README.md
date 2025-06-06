@@ -176,7 +176,7 @@ Below are the tools that shape my workflows, spark creativity, and power my proj
 
   <!-- GitHub Stats -->
   <a href="https://github.com/PtiCalin">
-    
+    <img src="https://github-readme-stats.vercel.app/api?username=PtiCalin&show_icons=true&theme=calm&count_private=true&hide_border=true" />
   </a>
   <br><br>
 
