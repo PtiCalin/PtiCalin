@@ -169,25 +169,25 @@ Below are the tools that shape my workflows, spark creativity, and power my proj
 <p align="center">
   <!-- Profile Views -->
   <a href="https://github.com/PtiCalin">
-    <img src="https://komarev.com/ghpvc/?username=PtiCanin&label=Profile%20Views&color=6A8CAF&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=PtiCalin&label=Profile%20Views&color=6A8CAF&style=flat-square" alt="Profile Views" />
   </a>
   <br><br>
 
   <!-- GitHub Stats -->
   <a href="https://github.com/PtiCalin">
-    <img src="https://github-readme-stats.vercel.app/api?username=PtiCanin&show_icons=true&theme=calm&count_private=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=PtiCalin&show_icons=true&theme=calm&count_private=true&hide_border=true" />
   </a>
   <br><br>
 
   <!-- Top Languages -->
   <a href="https://github.com/PtiCalin">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PtiCanin&layout=compact&theme=calm&hide_border=true&langs_count=16" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PtiCalin&layout=compact&theme=calm&hide_border=true&langs_count=16" alt="Top Languages" />
   </a>
   <br><br>
 
   <!-- Trophy Wall -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PtiCanin&theme=darkhub&no-frame=true&no-bg=true&column=3&margin-w=10&margin-h=8" alt="GitHub Trophy Wall"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=PtiCalin&theme=darkhub&no-frame=true&no-bg=true&column=3&margin-w=10&margin-h=8" alt="GitHub Trophy Wall"/>
   </a>
 
 ---
