@@ -123,22 +123,18 @@ Below are the tools that shape my workflows, spark creativity, and power my proj
 <details>
 <summary><b>🧭 Worldbuilding & RPG/Game Design</b></summary>
 <p align="left">
-  <a href="https://azgaar.github.io/Fantasy-Map-Generator/"><img src="https://img.shields.io/badge/Azgaar%E2%80%99s%20Map%20Generator-f1c40f?style=for-the-badge" /></a>
-  <a href="https://watabou.github.io/"><img src="https://img.shields.io/badge/Watabou%20Tools-cf6dff?style=for-the-badge" /></a>
   <a href="https://donjon.bin.sh/"><img src="https://img.shields.io/badge/Donjon%20RPG-bd4932?style=for-the-badge" /></a>
   <a href="https://inkarnate.com/"><img src="https://img.shields.io/badge/Inkarnate-DD4444?style=for-the-badge" /></a>
   <a href="https://www.wonderdraft.net/"><img src="https://img.shields.io/badge/Wonderdraft-226666?style=for-the-badge" /></a>
   <a href="https://probabletrain.itch.io/dungeon-scrawl"><img src="https://img.shields.io/badge/Dungeon%20Scrawl-4C5D74?style=for-the-badge" /></a>
   <a href="https://mipui.net/app/"><img src="https://img.shields.io/badge/Mipui%20Map-888888?style=for-the-badge" /></a>
   <a href="https://www.mapeditor.org/"><img src="https://img.shields.io/badge/Tiled%20Map%20Editor-005BBB?style=for-the-badge" /></a>
-  <a href="https://twinery.org/"><img src="https://img.shields.io/badge/Twine-CC317C?style=for-the-badge" /></a>
   <a href="https://www.chatmapper.com/"><img src="https://img.shields.io/badge/ChatMapper-404040?style=for-the-badge" /></a>
   <a href="https://www.rpgmakerweb.com/"><img src="https://img.shields.io/badge/RPG%20Maker-B03060?style=for-the-badge" /></a>
   <a href="https://godotengine.org/"><img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" /></a>
   <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" /></a>
   <a href="https://campaign-logger.com/"><img src="https://img.shields.io/badge/Campaign%20Logger-6441A4?style=for-the-badge" /></a>
   <a href="https://www.worldanvil.com/"><img src="https://img.shields.io/badge/World%20Anvil-FF7F50?style=for-the-badge" /></a>
-  <a href="https://kanka.io/"><img src="https://img.shields.io/badge/Kanka.io-8E44AD?style=for-the-badge" /></a>
 </p>
 </details>
 
@@ -160,6 +156,19 @@ Below are the tools that shape my workflows, spark creativity, and power my proj
   <a href="https://www.gutenberg.org/"><img src="https://img.shields.io/badge/Project%20Gutenberg-6F4E37?style=for-the-badge" /></a>
 </p>
 </details>
+
+<details> 
+<summary><b>📈 Data Analysis & Research Tools</b></summary> 
+<p align="left"> 
+  <a href="https://www.ibm.com/products/spss-statistics"><img src="https://img.shields.io/badge/SPSS-005A9C?style=for-the-badge&logo=ibm&logoColor=white" /></a> 
+  <a href="https://www.graphpad.com/scientific-software/prism/"><img src="https://img.shields.io/badge/GraphPad%20PRISM-8A2BE2?style=for-the-badge" /></a> 
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /></a> 
+  <a href="https://www.microsoft.com/en-us/microsoft-365/access"><img src="https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white" /></a> 
+  <a href="https://projectredcap.org/"><img src="https://img.shields.io/badge/REDCap-D22730?style=for-the-badge" /></a> 
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a> 
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /></a> 
+  <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a> 
+  <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a> 
 
 </td>
 <td width="40%" valign="top" align="center">
