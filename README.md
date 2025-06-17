@@ -196,7 +196,7 @@ Below are the tools that shape my workflows, spark creativity, and power my proj
 
   <!-- Trophy Wall -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PtiCalin&theme=darkhub&no-frame=true&no-bg=true&column=3&margin-w=10&margin-h=8" alt="GitHub Trophy Wall"/>
+    <img src="https://github-profile-trophy.vercel.app/?usernamePtiCalin&theme=darkhub&no-frame=true&no-bg=true&column=3&margin-w=10&margin-h=8" alt="GitHub Trophy Wall"/>
   </a>
 
 ---
