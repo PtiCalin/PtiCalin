@@ -1,6 +1,6 @@
 # 🪐 Hello, I'm PtiCalin!
 
-> Creative experimenter, system builder, and lifelong learner. Currently crafting the **Awesome Test Vault** — a digital playground for modular thinking, scripting, and second-brain design.
+> Creative experimenter, system builder, and lifelong learner. Currently crafting the **Awesome Test Vault**, a digital playground for modular thinking, scripting, and second-brain design.
 
 <table>
 <tr>
