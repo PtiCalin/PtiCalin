@@ -158,12 +158,14 @@ Below are the tools that shape my workflows, spark creativity, and power my proj
 <details>
 <summary><b>⚙️ Automation & Scripting</b></summary>
 <p align="left">
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" /></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
   <a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white" /></a>
-  <a href="https://ohmyz.sh/"><img src="https://img.shields.io/badge/Zsh-89E051?style=for-the-badge" /></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
   <a href="https://en.wikipedia.org/wiki/Shell_script"><img src="https://img.shields.io/badge/Shell%20Scripts-000000?style=for-the-badge&logo=gnu&logoColor=white" /></a>
+  <a href="https://www.shellcheck.net/"><img src="https://img.shields.io/badge/ShellCheck-89E051?style=for-the-badge" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Task%20Runners-000000?style=for-the-badge" /></a>
+  <a href="https://ohmyz.sh/"><img src="https://img.shields.io/badge/Zsh-89E051?style=for-the-badge" /></a>
 </p>
 </details>
 
@@ -172,15 +174,18 @@ Below are the tools that shape my workflows, spark creativity, and power my proj
 <p align="left">
   <a href="https://chat.openai.com/"><img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" /></a>
   <a href="https://claude.ai/"><img src="https://img.shields.io/badge/Claude-A420E5?style=for-the-badge" /></a>
-  <a href="https://www.perplexity.ai/"><img src="https://img.shields.io/badge/Perplexity-0047FF?style=for-the-badge" /></a>
-  <a href="https://www.notion.so/product/ai"><img src="https://img.shields.io/badge/Notion%20AI-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
-  <a href="https://otter.ai/"><img src="https://img.shields.io/badge/Otter.ai-1C67D9?style=for-the-badge" /></a>
-  <a href="https://www.wordtune.com/"><img src="https://img.shields.io/badge/Wordtune-8B5CF6?style=for-the-badge" /></a>
-  <a href="https://www.midjourney.com/"><img src="https://img.shields.io/badge/MidJourney-000000?style=for-the-badge" /></a>
-  <a href="https://leonardo.ai/"><img src="https://img.shields.io/badge/Leonardo%20AI-8C52FF?style=for-the-badge" /></a>
-  <a href="https://runwayml.com/"><img src="https://img.shields.io/badge/RunwayML-E63946?style=for-the-badge" /></a>
-  <a href="https://copilot.microsoft.com/"><img src="https://img.shields.io/badge/Microsoft%20Copilot-7373F0?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
+  <a href="https://openai.com/gpt-4o"><img src="https://img.shields.io/badge/GPT--4o-10A37F?style=for-the-badge&logo=openai&logoColor=white" /></a>
+  <a href="https://deepmind.google/"> <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
   <a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/GitHub%20Copilot-1A56DB?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leonardo.ai/"><img src="https://img.shields.io/badge/Leonardo%20AI-8C52FF?style=for-the-badge" /></a>
+  <a href="https://copilot.microsoft.com/"><img src="https://img.shields.io/badge/Microsoft%20Copilot-7373F0?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
+  <a href="https://www.midjourney.com/"><img src="https://img.shields.io/badge/MidJourney-000000?style=for-the-badge" /></a>
+  <a href="https://www.notion.so/product/ai"><img src="https://img.shields.io/badge/Notion%20AI-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
+  <a href="https://ollama.ai/"><img src="https://img.shields.io/badge/Ollama-10A37F?style=for-the-badge" /></a>
+  <a href="https://otter.ai/"><img src="https://img.shields.io/badge/Otter.ai-1C67D9?style=for-the-badge" /></a>
+  <a href="https://www.perplexity.ai/"><img src="https://img.shields.io/badge/Perplexity-0047FF?style=for-the-badge" /></a>
+  <a href="https://runwayml.com/"><img src="https://img.shields.io/badge/RunwayML-E63946?style=for-the-badge" /></a>
+  <a href="https://www.wordtune.com/"><img src="https://img.shields.io/badge/Wordtune-8B5CF6?style=for-the-badge" /></a>
 </p>
 </details>
 
@@ -219,17 +224,20 @@ Below are the tools that shape my workflows, spark creativity, and power my proj
 <details>
 <summary><b>🧭 Worldbuilding & RPG/Game Design</b></summary>
 <p align="left">
-  <a href="https://donjon.bin.sh/"><img src="https://img.shields.io/badge/Donjon%20RPG-bd4932?style=for-the-badge" /></a>
-  <a href="https://inkarnate.com/"><img src="https://img.shields.io/badge/Inkarnate-DD4444?style=for-the-badge" /></a>
-  <a href="https://www.wonderdraft.net/"><img src="https://img.shields.io/badge/Wonderdraft-226666?style=for-the-badge" /></a>
-  <a href="https://probabletrain.itch.io/dungeon-scrawl"><img src="https://img.shields.io/badge/Dungeon%20Scrawl-4C5D74?style=for-the-badge" /></a>
-  <a href="https://mipui.net/app/"><img src="https://img.shields.io/badge/Mipui%20Map-888888?style=for-the-badge" /></a>
-  <a href="https://www.mapeditor.org/"><img src="https://img.shields.io/badge/Tiled%20Map%20Editor-005BBB?style=for-the-badge" /></a>
-  <a href="https://www.chatmapper.com/"><img src="https://img.shields.io/badge/ChatMapper-404040?style=for-the-badge" /></a>
-  <a href="https://www.rpgmakerweb.com/"><img src="https://img.shields.io/badge/RPG%20Maker-B03060?style=for-the-badge" /></a>
-  <a href="https://godotengine.org/"><img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" /></a>
-  <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" /></a>
+  <a href="https://www.artbreeder.com/"><img src="https://img.shields.io/badge/Artbreeder-563D7C?style=for-the-badge" /></a>
   <a href="https://campaign-logger.com/"><img src="https://img.shields.io/badge/Campaign%20Logger-6441A4?style=for-the-badge" /></a>
+  <a href="https://www.chatmapper.com/"><img src="https://img.shields.io/badge/ChatMapper-404040?style=for-the-badge" /></a>
+  <a href="https://donjon.bin.sh/"><img src="https://img.shields.io/badge/Donjon%20RPG-bd4932?style=for-the-badge" /></a>
+  <a href="https://probabletrain.itch.io/dungeon-scrawl"><img src="https://img.shields.io/badge/Dungeon%20Scrawl-4C5D74?style=for-the-badge" /></a>
+  <a href="https://godotengine.org/"><img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" /></a>
+  <a href="https://inkarnate.com/"><img src="https://img.shields.io/badge/Inkarnate-DD4444?style=for-the-badge" /></a>
+  <a href="https://mipui.net/app/"><img src="https://img.shields.io/badge/Mipui%20Map-888888?style=for-the-badge" /></a>
+  <a href="https://www.rpgmakerweb.com/"><img src="https://img.shields.io/badge/RPG%20Maker-B03060?style=for-the-badge" /></a>
+  <a href="https://www.mapeditor.org/"><img src="https://img.shields.io/badge/Tiled%20Map%20Editor-005BBB?style=for-the-badge" /></a>
+  <a href="https://github.com/Seanba/Tiled2Unity"><img src="https://img.shields.io/badge/Tiled2Unity-005BBB?style=for-the-badge" /></a>
+  <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" /></a>
+  <a href="https://www.unrealengine.com/"><img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" /></a>
+  <a href="https://www.wonderdraft.net/"><img src="https://img.shields.io/badge/Wonderdraft-226666?style=for-the-badge" /></a>
   <a href="https://www.worldanvil.com/"><img src="https://img.shields.io/badge/World%20Anvil-FF7F50?style=for-the-badge" /></a>
 </p>
 </details>
@@ -255,17 +263,20 @@ Below are the tools that shape my workflows, spark creativity, and power my proj
 
 <details> 
 <summary><b>📈 Data Analysis & Research Tools</b></summary> 
-<p align="left"> 
-  <a href="https://www.ibm.com/products/spss-statistics"><img src="https://img.shields.io/badge/SPSS-005A9C?style=for-the-badge&logo=ibm&logoColor=white" /></a> 
-  <a href="https://www.graphpad.com/scientific-software/prism/"><img src="https://img.shields.io/badge/GraphPad%20PRISM-8A2BE2?style=for-the-badge" /></a> 
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /></a> 
-  <a href="https://www.microsoft.com/en-us/microsoft-365/access"><img src="https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white" /></a> 
-  <a href="https://projectredcap.org/"><img src="https://img.shields.io/badge/REDCap-D22730?style=for-the-badge" /></a> 
-  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a> 
-  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /></a> 
-  <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a> 
-  <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a> 
-
+<p align="left">
+  <a href="https://www.microsoft.com/en-us/microsoft-365/access"><img src="https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white" /></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /></a>
+  <a href="https://www.graphpad.com/scientific-software/prism/"><img src="https://img.shields.io/badge/GraphPad%20PRISM-8A2BE2?style=for-the-badge" /></a>
+  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /></a>
+  <a href="https://www.knime.com/"><img src="https://img.shields.io/badge/KNIME-FFBB00?style=for-the-badge&logo=knime&logoColor=black" /></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+  <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
+  <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a>
+  <a href="https://projectredcap.org/"><img src="https://img.shields.io/badge/REDCap-D22730?style=for-the-badge" /></a>
+  <a href="https://www.ibm.com/products/spss-statistics"><img src="https://img.shields.io/badge/SPSS-005A9C?style=for-the-badge&logo=ibm&logoColor=white" /></a>
+  <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
+  <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
 </td>
 <td width="40%" valign="top" align="center">
 
