@@ -25,78 +25,118 @@
 
 ### 🚀 My Projects
 
-#### 🧪 [Awesome Test Vault](https://github.com/PtiCalin/Awesome-Test-Vault)
-Experimental second-brain for modular workflows in Obsidian.
+<details>
+<summary>🧪 <strong><a href="https://github.com/PtiCalin/Awesome-Test-Vault">Awesome Test Vault</a></strong></summary>
+
+Experimental second-brain for modular workflows in Obsidian.  
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-F5DEB3?style=flat-square&logo=yaml&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
 ![status WIP](https://img.shields.io/badge/status-WIP-purple?style=flat-square)
 ![issues open](https://img.shields.io/badge/issues-open-blue?style=flat-square)
 
-#### 🛠️ [VaultOS](https://github.com/PtiCalin/VaultOs)
-Plugin suite that orchestrates subplugins, automates vault structure, and validates modules.
+</details>
+
+<details>
+<summary>🛠️ <strong><a href="https://github.com/PtiCalin/VaultOs">VaultOS</a></strong></summary>
+
+Plugin suite that orchestrates subplugins, automates vault structure, and validates modules.  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)  
 ![status WIP](https://img.shields.io/badge/status-WIP-purple?style=flat-square)
 ![issues tracking](https://img.shields.io/badge/issues-tracking-blue?style=flat-square)
 ![Plugin](https://img.shields.io/badge/Plugin-lightgrey?style=flat-square)
 
-#### 🌀 [Veridonia Universe](https://github.com/PtiCalin/Veridonia-Universe)
-Worldbuilding and game design system with modular RPG mechanics.
+</details>
+
+<details>
+<summary>🌀 <strong><a href="https://github.com/PtiCalin/Veridonia-Universe">Veridonia Universe</a></strong></summary>
+
+Worldbuilding and game design system with modular RPG mechanics.  
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)  
 ![status WIP](https://img.shields.io/badge/status-WIP-purple?style=flat-square)
 ![issues none](https://img.shields.io/badge/issues-none-lightgrey?style=flat-square)
 
-#### 🪙 [Calin Coin](https://github.com/PtiCalin/vault_nuggets)
-Custom blockchain experiment with wallet infrastructure and PoW/PoA features.
+</details>
+
+<details>
+<summary>🪙 <strong><a href="https://github.com/PtiCalin/vault_nuggets">Calin Coin</a></strong></summary>
+
+Custom blockchain experiment with wallet infrastructure and PoW/PoA features.  
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
 ![status Prototype](https://img.shields.io/badge/status-Prototype-orange?style=flat-square)
 ![issues none](https://img.shields.io/badge/issues-none-lightgrey?style=flat-square)
 ![Blockchain](https://img.shields.io/badge/Blockchain-lightgrey?style=flat-square)
 
-#### 🔐 Security Suite
-Local privacy-focused stack (VPN, DNSCrypt, etc.) for white-hat learning.
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+</details>
+
+<details>
+<summary>🔐 <strong>Security Suite</strong></summary>
+
+Local privacy-focused stack (VPN, DNSCrypt, etc.) for white-hat learning.  
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)  
 ![status Draft](https://img.shields.io/badge/status-Draft-grey?style=flat-square)
 ![issues none](https://img.shields.io/badge/issues-none-lightgrey?style=flat-square)
 ![Private](https://img.shields.io/badge/Private-lightgrey?style=flat-square)
 
-#### 📺 Survivor Encyclopedia
-Data-mining and template system built in Obsidian for reality TV archiving.
+</details>
+
+<details>
+<summary>📺 <strong>Survivor Encyclopedia</strong></summary>
+
+Data-mining and template system built in Obsidian for reality TV archiving.  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)  
 ![status WIP](https://img.shields.io/badge/status-WIP-purple?style=flat-square)
 ![issues none](https://img.shields.io/badge/issues-none-lightgrey?style=flat-square)
 
-#### 🖼️ [AI Image Describer](https://github.com/PtiCalin/vault_image-description)
-Python tool using Ollama for describing and tagging images in multiple modes.
+</details>
+
+<details>
+<summary>🖼️ <strong><a href="https://github.com/PtiCalin/vault_image-description">AI Image Describer</a></strong></summary>
+
+Python tool using Ollama for describing and tagging images in multiple modes.  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-10A37F?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-10A37F?style=flat-square)  
 ![status Prototype](https://img.shields.io/badge/status-Prototype-orange?style=flat-square)
 ![issues open](https://img.shields.io/badge/issues-open-blue?style=flat-square)
 ![AI](https://img.shields.io/badge/AI-lightgrey?style=flat-square)
 
-#### 📌 [Pinterest Scraper](https://github.com/PtiCalin/vault_image-description_temp)
-Visual inspiration pipeline using Pinterest API and local asset generation.
+</details>
+
+<details>
+<summary>📌 <strong><a href="https://github.com/PtiCalin/vault_image-description_temp">Pinterest Scraper</a></strong></summary>
+
+Visual inspiration pipeline using Pinterest API and local asset generation.  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white)
+![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white)  
 ![status PoC](https://img.shields.io/badge/status-PoC-red?style=flat-square)
 ![issues none](https://img.shields.io/badge/issues-none-lightgrey?style=flat-square)
 
-#### 🎮 [Simple Game Engine](https://github.com/PtiCalin/simple-game-engine)
-Minimal engine for learning game development fundamentals.
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+</details>
+
+<details>
+<summary>🎮 <strong><a href="https://github.com/PtiCalin/simple-game-engine">Simple Game Engine</a></strong></summary>
+
+Minimal engine for learning game development fundamentals.  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
 ![status Prototype](https://img.shields.io/badge/status-Prototype-orange?style=flat-square)
 ![issues tracking](https://img.shields.io/badge/issues-tracking-blue?style=flat-square)
 
-#### 🧰 [Template Repo Generator](https://github.com/PtiCalin/temp_repo-gen)
-CLI tool for spinning up consistent project templates quickly.
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+</details>
+
+<details>
+<summary>🧰 <strong><a href="https://github.com/PtiCalin/temp_repo-gen">Template Repo Generator</a></strong></summary>
+
+CLI tool for spinning up consistent project templates quickly.  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 ![status Draft](https://img.shields.io/badge/status-Draft-grey?style=flat-square)
 ![issues open](https://img.shields.io/badge/issues-open-blue?style=flat-square)
+
+</details>
 
 ---
 
