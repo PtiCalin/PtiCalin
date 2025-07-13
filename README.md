@@ -108,7 +108,7 @@ Python tool using Ollama for describing and tagging images in multiple modes.
 </details>
 
 <details>
-<summary>📌 <strong><a href="https://github.com/PtiCalin/vault_image-description_temp">Pinterest Scraper</a></strong></summary>
+<summary>📌 <strong><a href="https://github.com/PtiCalin/vault_image-description_temp">Image Description</a></strong></summary>
 
 Visual inspiration pipeline using Pinterest API and local asset generation.  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
