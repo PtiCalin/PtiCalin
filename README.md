@@ -1,32 +1,167 @@
-<table>
-<tr>
-<td width="60%" valign="top">
+<hr style="border:1px solid #8a2be2;">
 <div align="center">
   <img src="https://raw.githubusercontent.com/PtiCalin/PtiCalin/main/docs/banner.png" alt="PtiCalin Banner" width="80%" />
 </div>
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 <h1 align="center">🪐 PtiCalin</h1>
 <p align="center"><strong>✨ Building modular knowledge systems, developer tooling, and creative automation — learning in public with disciplined iteration. ✨</strong></p>
 
 <hr style="border:1px solid #8a2be2;">
 
-## 🚦 Overview
+## 🚦 Overview & Focus
 <span style="color:#8a2be2">I explore the intersection of personal knowledge systems, scripting, and creative engineering.</span> <br>
 My current focus: evolving an extensible Obsidian-based stack (<span style="background:#f5deeb; color:#483699; padding:2px 6px; border-radius:6px;">VaultOS + Awesome Test Vault</span>) to prototype structured thinking, automated organization, and reproducible workflows.
 
-## 🎯 Current Focus
 - 🛠️ <span style="color:#3178C6">VaultOS</span>: plugin orchestration, validation, and structured vault automation
 - 🧪 <span style="color:#8a2be2">Awesome Test Vault</span>: experimental second-brain patterns & modular templates
 - 🐍 <span style="color:#3776AB">Python</span>, 🦀 <span style="color:#000">Rust</span>, 🟦 <span style="color:#3178C6">TypeScript</span>: automation and content ops
 - 🌍 Systems thinking applied to worldbuilding, game design, and data curation
 
 ## 🚀 Featured Projects
+| 🏷️ Project | 🌐 Domain | 📝 Brief | 🧩 Core Stack | 📈 Status | 🔗 Repo |
+|--------|--------|-------|-----------|--------|------|
+| 🧪 Awesome Test Vault | PKM / Obsidian | Modular vault workflows & knowledge patterns | Obsidian, YAML, Git | WIP | [Repo](https://github.com/PtiCalin/Awesome-Test-Vault) |
+| 🎵 UNCHAINED | Audio Library / DJ | Local-first music library & DJ studio | FastAPI, SQLite, React, Tauri | Phase 1 | [Docs](#unchained) |
+| 🛠️ VaultOS | Obsidian Plugin | Orchestrates sub-plugins & validates structure | TypeScript, Node.js | WIP | [Repo](https://github.com/PtiCalin/VaultOS) |
+| 🌌 Veridonia Universe | Worldbuilding | Modular RPG + narrative system design | Markdown, Obsidian | WIP | [Repo](https://github.com/PtiCalin/Veridonia-Universe) |
+| 🪙 Calin Coin | Blockchain Experiment | Wallet + consensus exploration (PoW/PoA hybrid) | Rust, Docker | Prototype | [Repo](https://github.com/PtiCalin/vault_nuggets) |
+| 🔐 Security Suite | Privacy Lab | Local stack (VPN, DNS, security tooling) | Bash | Draft | Private |
+| 📺 Survivor Encyclopedia | Data Archiving | Structured TV metadata & templates | Python, Obsidian | WIP | Private |
+| 🖼️ AI Image Describer | Vision AI | Multi-mode image description + tagging | Python, Ollama | Prototype | [Repo](https://github.com/PtiCalin/vault_image-description) |
+| 📌 Image Inspiration Pipeline | Creative Sourcing | Pinterest API + local asset pipeline | Python | PoC | [Repo](https://github.com/PtiCalin/vault_image-description_temp) |
+| 🎮 Simple Game Engine | Learning Engine | Minimal game dev fundamentals | C++ | Prototype | [Repo](https://github.com/PtiCalin/simple-game-engine) |
+| 🧰 Template Repo Generator | Dev Productivity | Consistent project scaffolding CLI | Python | Draft | [Repo](https://github.com/PtiCalin/temp_repo-gen) |
+
+<details>
+<summary><strong>📝 Extended Notes (click to expand)</strong></summary>
+
+- <strong>Vault Architecture:</strong> Emphasis on declarative metadata, validation layers, and reproducible knowledge flows.
+- <strong>Experiment Rhythm:</strong> Small scope → measured outcome → refactor → document pattern.
+- <strong>Design Drivers:</strong> Maintainability, transparency, portability, low cognitive load.
+- <strong>Learning Style:</strong> Build-first, synthesize later. Prefer real artifacts over speculative diagrams.
+
+</details>
+
+### UNCHAINED
+
+Local-first, privacy-respecting music library + DJ studio designed to work offline, then scale to the web without rewrites.
+
+<details>
+<summary><strong>Quick Start (Phase 1)</strong></summary>
+
 ...existing code...
+
+</details>
+
+<details>
+<summary><strong>Architecture Overview</strong></summary>
+
+...existing code...
+
+</details>
+
+<details>
+<summary><strong>Metadata & Sources Workflow</strong></summary>
+
+...existing code...
+
+</details>
+
+<details>
+<summary><strong>Performance Features</strong></summary>
+
+...existing code...
+
+</details>
+
+<details>
+<summary><strong>UI Modes & Layout</strong></summary>
+
+...existing code...
+
+</details>
+
+<details>
+<summary><strong>Vision & Roadmap</strong></summary>
+
+...existing code...
+
+</details>
+
+<details>
+<summary><strong>Contributing & License</strong></summary>
+
+...existing code...
+
+</details>
+
+### Awesome Test Vault + VaultOS
+
+Your brain deserves an operating system — this is it. A modular, automation-powered PKM stack where Obsidian is the interface, VaultOS is the orchestration engine, and subplugins + scripts keep everything consistent, queryable, and alive.
+
+<details>
+<summary><strong>What It Actually Is</strong></summary>
+
+...existing code...
+
+</details>
+
+<details>
+<summary><strong>Why This Exists</strong></summary>
+
+...existing code...
+
+</details>
+
+<details>
+<summary><strong>Architecture (Human Version)</strong></summary>
+
+...existing code...
+
+</details>
+
+<details>
+<summary><strong>Subplugin Ecosystem</strong></summary>
+
+...existing code...
+
+</details>
+
+<details>
+<summary><strong>Roadmap</strong></summary>
+
+...existing code...
+
+</details>
+
+<details>
+<summary><strong>Who Is This For</strong></summary>
+
+...existing code...
+
+</details>
+
+<details>
+<summary><strong>Final Vibe Check</strong></summary>
+
+...existing code...
+
+</details>
 
 ## 🧰 Technology Landscape
 ...existing code...
 
 ## 🧠 Engineering & Knowledge Principles
+...existing code...
+
+## Metrics & Highlights (Optional)
+...existing code...
+
+## Support / Collaboration
 ...existing code...
 
 ## 🗺️ Roadmap Snapshot
@@ -35,8 +170,10 @@ My current focus: evolving an extensible Obsidian-based stack (<span style="back
 ## 📬 Contact
 ...existing code...
 
+<hr style="border:1px solid #8a2be2;">
 <p align="center"><em>🌱 Iteration compounds. Build with curiosity, refactor with care.</em></p>
 <hr style="border:1px solid #8a2be2;">
+
 </td>
 <td width="40%" valign="top" align="center">
 
@@ -62,33 +199,6 @@ My current focus: evolving an extensible Obsidian-based stack (<span style="back
 </td>
 </tr>
 </table>
-
-<hr style="border:1px solid #8a2be2;">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PtiCalin/PtiCalin/main/docs/banner.png" alt="PtiCalin Banner" width="80%" />
-</div>
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-<h1 align="center">🪐 PtiCalin</h1>
-<p align="center"><strong>✨ Building modular knowledge systems, developer tooling, and creative automation — learning in public with disciplined iteration. ✨</strong></p>
-
-<hr style="border:1px solid #8a2be2;">
-
-## 🚦 Overview
-<span style="color:#8a2be2">I explore the intersection of personal knowledge systems, scripting, and creative engineering.</span> <br>
-My current focus: evolving an extensible Obsidian-based stack (<span style="background:#f5deeb; color:#483699; padding:2px 6px; border-radius:6px;">VaultOS + Awesome Test Vault</span>) to prototype structured thinking, automated organization, and reproducible workflows.
-
-## 🎯 Current Focus
-- 🛠️ <span style="color:#3178C6">VaultOS</span>: plugin orchestration, validation, and structured vault automation
-- 🧪 <span style="color:#8a2be2">Awesome Test Vault</span>: experimental second-brain patterns & modular templates
-- 🐍 <span style="color:#3776AB">Python</span>, 🦀 <span style="color:#000">Rust</span>, 🟦 <span style="color:#3178C6">TypeScript</span>: automation and content ops
-- 🌍 Systems thinking applied to worldbuilding, game design, and data curation
-
-## 🚀 Featured Projects
 | 🏷️ Project | 🌐 Domain | 📝 Brief | 🧩 Core Stack | 📈 Status | 🔗 Repo |
 |--------|--------|-------|-----------|--------|------|
 | 🧪 Awesome Test Vault | PKM / Obsidian | Modular vault workflows & knowledge patterns | Obsidian, YAML, Git | WIP | [Repo](https://github.com/PtiCalin/Awesome-Test-Vault) |
