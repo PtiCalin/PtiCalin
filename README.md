@@ -1,34 +1,110 @@
+<table>
+<tr>
+<td width="60%" valign="top">
 <div align="center">
-  <h1>🪐 PtiCalin</h1>
-  <p><strong>Building modular knowledge systems, developer tooling, and creative automation — learning in public with disciplined iteration.</strong></p>
+  <img src="https://raw.githubusercontent.com/PtiCalin/PtiCalin/main/docs/banner.png" alt="PtiCalin Banner" width="80%" />
 </div>
 
-## Overview
-I explore the intersection of personal knowledge systems, scripting, and creative engineering. My current focus: evolving an extensible Obsidian-based stack (VaultOS + Awesome Test Vault) to prototype structured thinking, automated organization, and reproducible workflows.
+<h1 align="center">🪐 PtiCalin</h1>
+<p align="center"><strong>✨ Building modular knowledge systems, developer tooling, and creative automation — learning in public with disciplined iteration. ✨</strong></p>
 
-## Current Focus
-- VaultOS: plugin orchestration, validation, and structured vault automation.
-- Awesome Test Vault: experimental second-brain patterns & modular templates.
-- Tooling experiments in Rust, Python & TypeScript for automation and content ops.
-- Systems thinking applied to worldbuilding, game design, and data curation.
+<hr style="border:1px solid #8a2be2;">
 
-## Featured Projects
-| Project | Domain | Brief | Core Stack | Status | Repo |
+## 🚦 Overview
+<span style="color:#8a2be2">I explore the intersection of personal knowledge systems, scripting, and creative engineering.</span> <br>
+My current focus: evolving an extensible Obsidian-based stack (<span style="background:#f5deeb; color:#483699; padding:2px 6px; border-radius:6px;">VaultOS + Awesome Test Vault</span>) to prototype structured thinking, automated organization, and reproducible workflows.
+
+## 🎯 Current Focus
+- 🛠️ <span style="color:#3178C6">VaultOS</span>: plugin orchestration, validation, and structured vault automation
+- 🧪 <span style="color:#8a2be2">Awesome Test Vault</span>: experimental second-brain patterns & modular templates
+- 🐍 <span style="color:#3776AB">Python</span>, 🦀 <span style="color:#000">Rust</span>, 🟦 <span style="color:#3178C6">TypeScript</span>: automation and content ops
+- 🌍 Systems thinking applied to worldbuilding, game design, and data curation
+
+## 🚀 Featured Projects
+...existing code...
+
+## 🧰 Technology Landscape
+...existing code...
+
+## 🧠 Engineering & Knowledge Principles
+...existing code...
+
+## 🗺️ Roadmap Snapshot
+...existing code...
+
+## 📬 Contact
+...existing code...
+
+<p align="center"><em>🌱 Iteration compounds. Build with curiosity, refactor with care.</em></p>
+<hr style="border:1px solid #8a2be2;">
+</td>
+<td width="40%" valign="top" align="center">
+
+<h2>🏆 GitHub Trophy Wall</h2>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=PtiCalin&theme=darkhub&no-frame=true&no-bg=true&column=3&margin-w=10&margin-h=8" alt="GitHub Trophy Wall"/>
+</a>
+
+<h2>📊 GitHub Stats</h2>
+<a href="https://github.com/PtiCalin">
+  <img src="https://github-readme-stats.vercel.app/api?username=PtiCalin&theme=calm&show_icons=true&hide_border=true" />
+</a>
+<br><br>
+<a href="https://github.com/PtiCalin">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PtiCalin&theme=calm&layout=compact&hide_border=true" alt="Top Languages" />
+</a>
+
+<h2>☕ Support My Journey</h2>
+<a href="https://buymeacoffee.com/pticalindop">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<hr style="border:1px solid #8a2be2;">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PtiCalin/PtiCalin/main/docs/banner.png" alt="PtiCalin Banner" width="80%" />
+</div>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+<h1 align="center">🪐 PtiCalin</h1>
+<p align="center"><strong>✨ Building modular knowledge systems, developer tooling, and creative automation — learning in public with disciplined iteration. ✨</strong></p>
+
+<hr style="border:1px solid #8a2be2;">
+
+## 🚦 Overview
+<span style="color:#8a2be2">I explore the intersection of personal knowledge systems, scripting, and creative engineering.</span> <br>
+My current focus: evolving an extensible Obsidian-based stack (<span style="background:#f5deeb; color:#483699; padding:2px 6px; border-radius:6px;">VaultOS + Awesome Test Vault</span>) to prototype structured thinking, automated organization, and reproducible workflows.
+
+## 🎯 Current Focus
+- 🛠️ <span style="color:#3178C6">VaultOS</span>: plugin orchestration, validation, and structured vault automation
+- 🧪 <span style="color:#8a2be2">Awesome Test Vault</span>: experimental second-brain patterns & modular templates
+- 🐍 <span style="color:#3776AB">Python</span>, 🦀 <span style="color:#000">Rust</span>, 🟦 <span style="color:#3178C6">TypeScript</span>: automation and content ops
+- 🌍 Systems thinking applied to worldbuilding, game design, and data curation
+
+## 🚀 Featured Projects
+| 🏷️ Project | 🌐 Domain | 📝 Brief | 🧩 Core Stack | 📈 Status | 🔗 Repo |
 |--------|--------|-------|-----------|--------|------|
-| Awesome Test Vault | PKM / Obsidian | Modular vault workflows & knowledge patterns | Obsidian, YAML, Git | WIP | [Repo](https://github.com/PtiCalin/Awesome-Test-Vault) |
-| UNCHAINED | Audio Library / DJ | Local-first music library & DJ studio | FastAPI, SQLite, React, Tauri | Phase 1 | [Docs](#unchained) |
-| VaultOS | Obsidian Plugin | Orchestrates sub-plugins & validates structure | TypeScript, Node.js | WIP | [Repo](https://github.com/PtiCalin/VaultOS) |
-| Veridonia Universe | Worldbuilding | Modular RPG + narrative system design | Markdown, Obsidian | WIP | [Repo](https://github.com/PtiCalin/Veridonia-Universe) |
-| Calin Coin | Blockchain Experiment | Wallet + consensus exploration (PoW/PoA hybrid) | Rust, Docker | Prototype | [Repo](https://github.com/PtiCalin/vault_nuggets) |
-| Security Suite | Privacy Lab | Local stack (VPN, DNS, security tooling) | Bash | Draft | Private |
-| Survivor Encyclopedia | Data Archiving | Structured TV metadata & templates | Python, Obsidian | WIP | Private |
-| AI Image Describer | Vision AI | Multi-mode image description + tagging | Python, Ollama | Prototype | [Repo](https://github.com/PtiCalin/vault_image-description) |
-| Image Inspiration Pipeline | Creative Sourcing | Pinterest API + local asset pipeline | Python | PoC | [Repo](https://github.com/PtiCalin/vault_image-description_temp) |
-| Simple Game Engine | Learning Engine | Minimal game dev fundamentals | C++ | Prototype | [Repo](https://github.com/PtiCalin/simple-game-engine) |
-| Template Repo Generator | Dev Productivity | Consistent project scaffolding CLI | Python | Draft | [Repo](https://github.com/PtiCalin/temp_repo-gen) |
+| 🧪 Awesome Test Vault | PKM / Obsidian | Modular vault workflows & knowledge patterns | Obsidian, YAML, Git | WIP | [Repo](https://github.com/PtiCalin/Awesome-Test-Vault) |
+| 🎵 UNCHAINED | Audio Library / DJ | Local-first music library & DJ studio | FastAPI, SQLite, React, Tauri | Phase 1 | [Docs](#unchained) |
+| 🛠️ VaultOS | Obsidian Plugin | Orchestrates sub-plugins & validates structure | TypeScript, Node.js | WIP | [Repo](https://github.com/PtiCalin/VaultOS) |
+| 🌌 Veridonia Universe | Worldbuilding | Modular RPG + narrative system design | Markdown, Obsidian | WIP | [Repo](https://github.com/PtiCalin/Veridonia-Universe) |
+| 🪙 Calin Coin | Blockchain Experiment | Wallet + consensus exploration (PoW/PoA hybrid) | Rust, Docker | Prototype | [Repo](https://github.com/PtiCalin/vault_nuggets) |
+| 🔐 Security Suite | Privacy Lab | Local stack (VPN, DNS, security tooling) | Bash | Draft | Private |
+| 📺 Survivor Encyclopedia | Data Archiving | Structured TV metadata & templates | Python, Obsidian | WIP | Private |
+| 🖼️ AI Image Describer | Vision AI | Multi-mode image description + tagging | Python, Ollama | Prototype | [Repo](https://github.com/PtiCalin/vault_image-description) |
+| 📌 Image Inspiration Pipeline | Creative Sourcing | Pinterest API + local asset pipeline | Python | PoC | [Repo](https://github.com/PtiCalin/vault_image-description_temp) |
+| 🎮 Simple Game Engine | Learning Engine | Minimal game dev fundamentals | C++ | Prototype | [Repo](https://github.com/PtiCalin/simple-game-engine) |
+| 🧰 Template Repo Generator | Dev Productivity | Consistent project scaffolding CLI | Python | Draft | [Repo](https://github.com/PtiCalin/temp_repo-gen) |
 
 <details>
-<summary><strong>Extended Notes (click to expand)</strong></summary>
+<summary><strong>📝 Extended Notes (click to expand)</strong></summary>
 
 - <strong>Vault Architecture:</strong> Emphasis on declarative metadata, validation layers, and reproducible knowledge flows.
 - <strong>Experiment Rhythm:</strong> Small scope → measured outcome → refactor → document pattern.
@@ -36,6 +112,38 @@ I explore the intersection of personal knowledge systems, scripting, and creativ
 - <strong>Learning Style:</strong> Build-first, synthesize later. Prefer real artifacts over speculative diagrams.
 
 </details>
+
+...existing code...
+
+<hr style="border:1px solid #8a2be2;">
+<p align="center"><em>🌱 Iteration compounds. Build with curiosity, refactor with care.</em></p>
+<hr style="border:1px solid #8a2be2;">
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<h2>🏆 GitHub Trophy Wall</h2>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=PtiCalin&theme=darkhub&no-frame=true&no-bg=true&column=3&margin-w=10&margin-h=8" alt="GitHub Trophy Wall"/>
+</a>
+
+<h2>📊 GitHub Stats</h2>
+<a href="https://github.com/PtiCalin">
+  <img src="https://github-readme-stats.vercel.app/api?username=PtiCalin&theme=calm&show_icons=true&hide_border=true" />
+</a>
+<br><br>
+<a href="https://github.com/PtiCalin">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PtiCalin&theme=calm&layout=compact&hide_border=true" alt="Top Languages" />
+</a>
+
+<h2>☕ Support My Journey</h2>
+<a href="https://buymeacoffee.com/pticalindop">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ### UNCHAINED
 
