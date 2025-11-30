@@ -79,39 +79,60 @@ My current focus: evolving an extensible Obsidian-based stack (<span style="back
 
 </details>
 
-...existing code...
-
-<hr style="border:1px solid #8a2be2;">
-<p align="center"><em>🌱 Iteration compounds. Build with curiosity, refactor with care.</em></p>
-<hr style="border:1px solid #8a2be2;">
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<h2>🏆 GitHub Trophy Wall</h2>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=PtiCalin&theme=darkhub&no-frame=true&no-bg=true&column=3&margin-w=10&margin-h=8" alt="GitHub Trophy Wall"/>
-</a>
-
-<h2>📊 GitHub Stats</h2>
-<a href="https://github.com/PtiCalin">
-  <img src="https://github-readme-stats.vercel.app/api?username=PtiCalin&theme=calm&show_icons=true&hide_border=true" />
-</a>
-<br><br>
-<a href="https://github.com/PtiCalin">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PtiCalin&theme=calm&layout=compact&hide_border=true" alt="Top Languages" />
-</a>
-
-<h2>☕ Support My Journey</h2>
-<a href="https://buymeacoffee.com/pticalindop">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-</a>
-
 </td>
 </tr>
 </table>
 
-### UNCHAINED
+## Technology Landscape
+<strong>Core:</strong> `TypeScript` · `Python` · `Rust` · `C++` · `Markdown` · `YAML` · `Git`  
+<strong>Platforms:</strong> `Obsidian` · `Node.js` · `Docker` · `Ollama`  
+<strong>Automation & Scripting:</strong> `Bash` · `PowerShell` · `CLI tooling`  
+<strong>Data & Analysis:</strong> `Jupyter` · `SQLite` · `PostgreSQL` · `MySQL`  
+<strong>Creative & Worldbuilding:</strong> `Figma` · `Godot` · `Unity` · `Narrative tooling`  
+<strong>Exploration:</strong> Consensus design · Knowledge graph structuring · Semantic tagging workflows
+
+## Engineering & Knowledge Principles
+- Clarity over cleverness; explicit metadata beats implicit convention.
+- Systems > goals: invest in reusable processes that compound.
+- Automate the boring; narrate the non-obvious.
+- Prototype fast, archive learnings, refactor with intention.
+- Layered validation reduces entropy in growing knowledge bases.
+
+## Metrics & Highlights (Optional)
+<details>
+<summary>Show GitHub Stats</summary>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PtiCalin&theme=calm&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PtiCalin&theme=calm&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+</details>
+
+## Support / Collaboration
+If you find value in these experiments or want to collaborate on structured thinking / vault automation, feel free to open an issue or reach out.  
+<a href="https://buymeacoffee.com/pticalindop">☕ Buy Me a Coffee</a>
+
+## Roadmap Snapshot
+- Short-term: strengthen VaultOS validation layer & test harness.
+- Mid-term: modular knowledge graph export strategy (queryable model).
+- Long-term: interoperable vault schema supporting multi-tool ingestion.
+
+## Contact
+For queries, collaboration ideas, or constructive feedback: open a discussion or reach out via GitHub Issues.
+
+<p align="center"><em>🌱 Iteration compounds. Build with curiosity, refactor with care.</em></p>
+
+---
+
+<sub>Previous, more badge-heavy profile version has been simplified for readability and professional tone.</sub>
+
+---
+
+## MY MAIN PROJECTs
+
+<details> ### UNCHAINED
 
 Local-first, privacy-respecting music library + DJ studio designed to work offline, then scale to the web without rewrites.
 
@@ -228,54 +249,8 @@ Long-term: Local-first extensibility + optional cloud sync; provenance-aware met
 </details>
 
 
-## Technology Landscape
-<strong>Core:</strong> `TypeScript` · `Python` · `Rust` · `C++` · `Markdown` · `YAML` · `Git`  
-<strong>Platforms:</strong> `Obsidian` · `Node.js` · `Docker` · `Ollama`  
-<strong>Automation & Scripting:</strong> `Bash` · `PowerShell` · `CLI tooling`  
-<strong>Data & Analysis:</strong> `Jupyter` · `SQLite` · `PostgreSQL` · `MySQL`  
-<strong>Creative & Worldbuilding:</strong> `Figma` · `Godot` · `Unity` · `Narrative tooling`  
-<strong>Exploration:</strong> Consensus design · Knowledge graph structuring · Semantic tagging workflows
-
-## Engineering & Knowledge Principles
-- Clarity over cleverness; explicit metadata beats implicit convention.
-- Systems > goals: invest in reusable processes that compound.
-- Automate the boring; narrate the non-obvious.
-- Prototype fast, archive learnings, refactor with intention.
-- Layered validation reduces entropy in growing knowledge bases.
-
-## Metrics & Highlights (Optional)
-<details>
-<summary>Show GitHub Stats</summary>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PtiCalin&theme=calm&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PtiCalin&theme=calm&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
-</details>
-
-## Support / Collaboration
-If you find value in these experiments or want to collaborate on structured thinking / vault automation, feel free to open an issue or reach out.  
-<a href="https://buymeacoffee.com/pticalindop">☕ Buy Me a Coffee</a>
-
-## Roadmap Snapshot
-- Short-term: strengthen VaultOS validation layer & test harness.
-- Mid-term: modular knowledge graph export strategy (queryable model).
-- Long-term: interoperable vault schema supporting multi-tool ingestion.
-
-## Contact
-For queries, collaboration ideas, or constructive feedback: open a discussion or reach out via GitHub Issues.
-
-<p align="center"><em>🌱 Iteration compounds. Build with curiosity, refactor with care.</em></p>
-
----
-
-<sub>Previous, more badge-heavy profile version has been simplified for readability and professional tone.</sub>
-
----
-
-### Awesome Test Vault + VaultOS
+<details> 
+<summary><h3>Awesome Test Vault + VaultOS</h3><summary>
 
 Your brain deserves an operating system — this is it. A modular, automation-powered PKM stack where Obsidian is the interface, VaultOS is the orchestration engine, and subplugins + scripts keep everything consistent, queryable, and alive.
 
@@ -322,10 +297,6 @@ Manual note management doesn’t scale. This system:
 - `worldbuilding/`: structures for characters, timelines, maps, lore.
 - `developer/`: helpers, snippets, polyglot tools.
 
-Think Pokémon, but for automations.
-
-</details>
-
 <details>
 <summary><strong>Roadmap</strong></summary>
 
@@ -340,18 +311,8 @@ Phase 7 — Release: docs, demos, marketing.
 </details>
 
 <details>
-<summary><strong>Who Is This For</strong></summary>
-
-- Builders who turn “a few notes” into micro-civilizations.
-- Developers who automate to avoid repetitive work.
-- Worldbuilders who want lore to behave like a database.
-- Productivity folks and chaos gremlins alike.
-
-</details>
-
-<details>
 <summary><strong>Final Vibe Check</strong></summary>
 
-It’s a living system, a toolbelt, a learning lab, and a dev playground. Clone it, break it, extend it. Let it organize itself—and yes, judge your metadata (gently).
+It’s a living system, a toolbelt, a learning lab, and a dev playground. Clone it, break it, extend it.
 
 </details>
