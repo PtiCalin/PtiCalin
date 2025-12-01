@@ -28,17 +28,28 @@ I'm a systems thinker and builder focused on <strong>metadata-driven automation<
 
 | 📦 Project | 🏷️ Domain | 💡 Purpose | 🛠️ Stack | 📊 Status | 🔗 Link |
 |------------|-----------|-----------|----------|----------|---------|
-| **VaultOS** | Obsidian Plugin | Orchestrates subplugins, validates structure | TypeScript, Node.js | 🔨 WIP | [Repo](https://github.com/PtiCalin/VaultOS) |
-| **Awesome Test Vault** | PKM Vault | Modular workflows & knowledge patterns | Obsidian, YAML, Git | 🔨 WIP | [Repo](https://github.com/PtiCalin/Awesome-Test-Vault) |
-| **UNCHAINED** | Audio / DJ | Local-first music library & DJ studio | FastAPI, SQLite, React, Tauri | 🟢 Phase 1 | [Repo](https://github.com/PtiCalin/UNCHAINED) |
-| **Veridonia Universe** | Worldbuilding | Modular RPG + narrative system schema | Markdown, Obsidian | 🔨 WIP | [Repo](https://github.com/PtiCalin/Veridonia-Universe) |
-| **Calin Coin** | Blockchain | Hybrid PoW/PoA experiment + wallet infra | Rust, Docker | 🧪 Prototype | [Repo](https://github.com/PtiCalin/vault_nuggets) |
-| **Security Suite** | Privacy Lab | Local VPN / DNS / security stack | Bash | 📝 Draft | Private |
-| **Survivor Encyclopedia** | Data Archive | Structured TV metadata & templates | Python, Obsidian | 🔨 WIP | Private |
-| **AI Image Describer** | Vision AI | Multi-mode image description & tagging | Python, Ollama | 🧪 Prototype | [Repo](https://github.com/PtiCalin/vault_image-description) |
-| **Image Inspiration Pipeline** | Creative Sourcing | Pinterest API + asset pipeline | Python | 🔬 PoC | [Repo](https://github.com/PtiCalin/vault_image-description_temp) |
-| **Simple Game Engine** | Learning Engine | Fundamentals-focused minimal engine | C++ | 🧪 Prototype | [Repo](https://github.com/PtiCalin/simple-game-engine) |
-| **Template Repo Generator** | Dev Productivity | Rapid consistent project scaffolding | Python | 📝 Draft | [Repo](https://github.com/PtiCalin/temp_repo-gen) |
+| **A bit about PtiCalin** | Profile | Personal README and profile info | Markdown | 🟢 Active | [Repo](https://github.com/PtiCalin/PtiCalin) |
+| **UNCHAINED** | Audio / DJ | Post-modern music management software | TypeScript | 🟢 Active | [Repo](https://github.com/PtiCalin/UNCHAINED) |
+| **Ophthalmology Consult Manager** | Healthcare | Manage consults and referrals | Shell | 🔨 WIP | Private |
+| **School Vault** | PKM / School | Digital school setup | Shell | 🔨 WIP | Private |
+| **temp_repo-gen** | Dev Productivity | Official general repository template | Shell | 🟢 Active | [Repo](https://github.com/PtiCalin/temp_repo-gen) |
+| **ilovesnoopdogg** | Web Design | Creative microsite for IFT2720 | HTML | 🧪 Prototype | Private |
+| **temp_lean-project_repo** | Dev Productivity | Lighter repo template for projects | Shell | 🟢 Active | [Repo](https://github.com/PtiCalin/temp_lean-project_repo) |
+| **nano-banana-hackathon-kit** | Hackathon | Fork of Nano Banana starter kit | Jupyter Notebook | 🟢 Active | [Repo](https://github.com/PtiCalin/nano-banana-hackathon-kit) |
+| **MUHC Knowledge Base** | Healthcare | Tool for MAEC clinic secretaries | — | 🔨 WIP | Private |
+| **simple-game-engine** | Game Dev | Handcrafted engine for narrative experiments | Python | 🧪 Prototype | [Repo](https://github.com/PtiCalin/simple-game-engine) |
+| **vaultops** | Privacy Lab | Self-hosted cybersecurity lab | Python | 🧪 Prototype | Private |
+| **Awesome Test Vault** | PKM | Obsidian-based personal knowledge system | Python | 🔨 WIP | [Repo](https://github.com/PtiCalin/Awesome-Test-Vault) |
+| **vault_image-description** | Vision AI | Image description & tagging | TypeScript | 🧪 Prototype | [Repo](https://github.com/PtiCalin/vault_image-description) |
+| **temp_repo-obsidian-plugin** | Dev Template | Obsidian plugin template (TypeScript) | TypeScript | 🟢 Active | [Repo](https://github.com/PtiCalin/temp_repo-obsidian-plugin) |
+| **vault_image-description_temp** | Vision AI | Ollama-powered image captioning | JavaScript | 🧪 Prototype | [Repo](https://github.com/PtiCalin/vault_image-description_temp) |
+| **obsidian-releases** | Community | Fork of Obsidian community plugins list | — | 🟢 Active | [Repo](https://github.com/PtiCalin/obsidian-releases) |
+| **vault_image-map** | UX | Interactive image navigation in Obsidian | TypeScript | 🟢 Active | [Repo](https://github.com/PtiCalin/vault_image-map) |
+| **vault_image-generator** | Creative | Generate images from notes | TypeScript | 🟢 Active | [Repo](https://github.com/PtiCalin/vault_image-generator) |
+| **VaultOS** | Obsidian Plugin | Modular orchestration engine for Obsidian | TypeScript | 🔨 WIP | [Repo](https://github.com/PtiCalin/VaultOs) |
+| **vault_note-blocks** | Notes | Functional blocks for notes (Vault style) | TypeScript | 🟢 Active | [Repo](https://github.com/PtiCalin/vault_note-blocks) |
+| **vault_nuggets** | Blockchain | Modular educational blockchain system | Python | 🧪 Prototype | Private |
+| **vault_summary-engine** | Notes | Auto-populates summary YAML field | TypeScript | 🟢 Active | [Repo](https://github.com/PtiCalin/vault_summary-engine) |
 
 ---
  
