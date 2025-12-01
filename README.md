@@ -1,19 +1,29 @@
 <h1 align="center">🪐 PtiCalin</h1>
 <p align="center"><strong>Building modular knowledge systems, developer tooling, and creative automation.</strong></p>
 
-| Item | Domain | Purpose | Stack | Status | Link |
-|------|--------|---------|-------|--------|------|
-| VaultOS | Obsidian Plugin | Orchestrates subplugins, validates structure | TypeScript, Node.js | WIP | https://github.com/PtiCalin/VaultOS |
-| Awesome Test Vault | PKM Vault | Modular workflows & knowledge patterns | Obsidian, YAML, Git | WIP | https://github.com/PtiCalin/Awesome-Test-Vault |
-| UNCHAINED | Audio / DJ | Local-first music library & DJ studio | FastAPI, SQLite, React, Tauri | Phase 1 | (Docs coming) |
-| Veridonia Universe | Worldbuilding | Modular RPG + narrative system schema | Markdown, Obsidian | WIP | https://github.com/PtiCalin/Veridonia-Universe |
-| Calin Coin | Blockchain | Hybrid PoW/PoA experiment + wallet infra | Rust, Docker | Prototype | https://github.com/PtiCalin/vault_nuggets |
-| Security Suite | Privacy Lab | Local VPN / DNS / security stack | Bash | Draft | Private |
-| Survivor Encyclopedia | Data Archive | Structured TV metadata & templates | Python, Obsidian | WIP | Private |
-| AI Image Describer | Vision AI | Multi-mode image description & tagging | Python, Ollama | Prototype | https://github.com/PtiCalin/vault_image-description |
-| Image Inspiration Pipeline | Creative Sourcing | Pinterest API + asset pipeline | Python | PoC | https://github.com/PtiCalin/vault_image-description_temp |
-| Simple Game Engine | Learning Engine | Fundamentals-focused minimal engine | C++ | Prototype | https://github.com/PtiCalin/simple-game-engine |
-| Template Repo Generator | Dev Productivity | Rapid consistent project scaffolding | Python | Draft | https://github.com/PtiCalin/temp_repo-gen |
+<p align="center">
+I'm a systems thinker and builder focused on <strong>metadata-driven automation</strong>, <strong>local-first tooling</strong>, and <strong>structured knowledge systems</strong>. My work bridges personal knowledge management (PKM), developer productivity, creative pipelines, and exploratory experiments across blockchain, AI, and worldbuilding. Each project reflects iterative learning, reproducible workflows, and a commitment to open documentation.
+</p>
+
+---
+
+## 🚀 Projects
+
+| 📦 Project | 🏷️ Domain | 💡 Purpose | 🛠️ Stack | 📊 Status | 🔗 Link |
+|------------|-----------|-----------|----------|----------|---------|
+| **VaultOS** | Obsidian Plugin | Orchestrates subplugins, validates structure | TypeScript, Node.js | 🔨 WIP | [Repo](https://github.com/PtiCalin/VaultOS) |
+| **Awesome Test Vault** | PKM Vault | Modular workflows & knowledge patterns | Obsidian, YAML, Git | 🔨 WIP | [Repo](https://github.com/PtiCalin/Awesome-Test-Vault) |
+| **UNCHAINED** | Audio / DJ | Local-first music library & DJ studio | FastAPI, SQLite, React, Tauri | 🟢 Phase 1 | Docs coming |
+| **Veridonia Universe** | Worldbuilding | Modular RPG + narrative system schema | Markdown, Obsidian | 🔨 WIP | [Repo](https://github.com/PtiCalin/Veridonia-Universe) |
+| **Calin Coin** | Blockchain | Hybrid PoW/PoA experiment + wallet infra | Rust, Docker | 🧪 Prototype | [Repo](https://github.com/PtiCalin/vault_nuggets) |
+| **Security Suite** | Privacy Lab | Local VPN / DNS / security stack | Bash | 📝 Draft | Private |
+| **Survivor Encyclopedia** | Data Archive | Structured TV metadata & templates | Python, Obsidian | 🔨 WIP | Private |
+| **AI Image Describer** | Vision AI | Multi-mode image description & tagging | Python, Ollama | 🧪 Prototype | [Repo](https://github.com/PtiCalin/vault_image-description) |
+| **Image Inspiration Pipeline** | Creative Sourcing | Pinterest API + asset pipeline | Python | 🔬 PoC | [Repo](https://github.com/PtiCalin/vault_image-description_temp) |
+| **Simple Game Engine** | Learning Engine | Fundamentals-focused minimal engine | C++ | 🧪 Prototype | [Repo](https://github.com/PtiCalin/simple-game-engine) |
+| **Template Repo Generator** | Dev Productivity | Rapid consistent project scaffolding | Python | 📝 Draft | [Repo](https://github.com/PtiCalin/temp_repo-gen) |
+
+---
 
 <p align="center"><em>🌱 Iteration compounds. Build with curiosity, refactor with care.</em></p>
  
