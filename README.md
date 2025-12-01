@@ -37,6 +37,58 @@ I follow a non-linear path: atypical formal studies, deep autodidactic cycles, a
 ## Tech Stack Details
 Focused on local-first, modular, metadata-driven workflows. Each category lists current active use plus near-term evolution.
 
+<!-- Tech badges -->
+<p>
+	<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+	<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+	<img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+	<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+	<img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+	<img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+	<img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" />
+	<img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+	<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+	<img alt="YAML" src="https://img.shields.io/badge/YAML-CB171E?style=flat-square" />
+	<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+	<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+	<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+	<img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-4E91D9?style=flat-square" />
+	<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" />
+	<img alt="Tauri" src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=000000" />
+	<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+	<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+	<img alt="JSON" src="https://img.shields.io/badge/JSON-000000?style=flat-square" />
+	<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+	<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+	<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white" />
+	<img alt="Obsidian Plugin API" src="https://img.shields.io/badge/Obsidian%20Plugin%20API-7C3AED?style=flat-square&logo=obsidian&logoColor=white" />
+	<img alt="VaultOS" src="https://img.shields.io/badge/VaultOS-555555?style=flat-square" />
+	<img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=flat-square" />
+	<img alt="FAISS" src="https://img.shields.io/badge/FAISS-005571?style=flat-square" />
+	<img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
+	<img alt="Ruff" src="https://img.shields.io/badge/Ruff-0E7C61?style=flat-square" />
+	<img alt="mypy" src="https://img.shields.io/badge/mypy-2A6DB2?style=flat-square" />
+	<img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white" />
+	<img alt="Microsoft Copilot" src="https://img.shields.io/badge/Microsoft%20Copilot-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+	<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+	<img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+	<img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+	<img alt="Access" src="https://img.shields.io/badge/Access-A4373A?style=flat-square&logo=microsoftaccess&logoColor=white" />
+	<img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+	<img alt="Word" src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white" />
+	<img alt="PowerPoint" src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white" />
+	<img alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" />
+	<img alt="Publisher" src="https://img.shields.io/badge/Publisher-217346?style=flat-square" />
+	<img alt="Clipchamp" src="https://img.shields.io/badge/Clipchamp-7A55D1?style=flat-square" />
+	<img alt="Teams" src="https://img.shields.io/badge/Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white" />
+	<img alt="OneNote" src="https://img.shields.io/badge/OneNote-7719AA?style=flat-square&logo=microsoftonenote&logoColor=white" />
+	<img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+	<img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
+	<img alt="InDesign" src="https://img.shields.io/badge/InDesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white" />
+	<img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+	<img alt="GIMP" src="https://img.shields.io/badge/GIMP-5C5543?style=flat-square&logo=gimp&logoColor=white" />
+</p>
+
 <details>
 <summary><strong>Languages</strong></summary>
 
@@ -64,8 +116,15 @@ Focused on local-first, modular, metadata-driven workflows. Each category lists 
 <details>
 <summary><strong>Frontend & Desktop</strong></summary>
 
+
+	- <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" /> raster editing and asset preparation.
+	- <img alt="InDesign" src="https://img.shields.io/badge/InDesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white" /> layout for docs and print-ready artifacts.
+	- <img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" /> quick social/brand visuals.
+	- <img alt="GIMP" src="https://img.shields.io/badge/GIMP-5C5543?style=flat-square&logo=gimp&logoColor=white" /> open-source image editing.
+- <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /> design systems and rapid prototyping.
 - <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" /> UI prototyping, component-centric state planning.
 - <img alt="Tauri" src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=000000" /> desktop wrapper for local-first tooling (UNCHAINED roadmap).
+- <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" /> 3D/interactive prototypes and engine fundamentals.
 - <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />/<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> semantic structuring, minimal styling emphasis over heavy frameworks.
 
 </details>
@@ -83,10 +142,22 @@ Focused on local-first, modular, metadata-driven workflows. Each category lists 
 <details>
 <summary><strong>DevOps & Tooling</strong></summary>
 
+- <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /> primary editor and tooling hub.
 - <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> + <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> versioning, issue-driven iteration, documentation alignment.
 - Scripted scaffolding: template repo generator standardizes project baselines.
 - Planned CI: <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white" /> for linting, schema validation, build sanity.
 - Environment reproducibility: lean setup scripts, dependency pinning roadmap.
+
+</details>
+
+<details>
+<summary><strong>Productivity & Office</strong></summary>
+
+	- <img alt="OneNote" src="https://img.shields.io/badge/OneNote-7719AA?style=flat-square&logo=microsoftonenote&logoColor=white" /> + <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" /> notes, planning, and workspace organization.
+- <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" /> + <img alt="Access" src="https://img.shields.io/badge/Access-A4373A?style=flat-square&logo=microsoftaccess&logoColor=white" /> lightweight data work, ad‑hoc reporting, and quick prototyping.
+- <img alt="Word" src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white" /> + <img alt="PowerPoint" src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white" /> + <img alt="Publisher" src="https://img.shields.io/badge/Publisher-217346?style=flat-square" /> documentation, presentations, and formatted artifacts.
+- <img alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" /> + <img alt="Teams" src="https://img.shields.io/badge/Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white" /> communication and coordination.
+- <img alt="Clipchamp" src="https://img.shields.io/badge/Clipchamp-7A55D1?style=flat-square" /> lightweight video edits and clips.
 
 </details>
 
@@ -103,6 +174,8 @@ Focused on local-first, modular, metadata-driven workflows. Each category lists 
 <details>
 <summary><strong>AI & Creative Systems</strong></summary>
 
+- <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white" /> prompting, ideation, and exploratory assistants.
+- <img alt="Microsoft Copilot" src="https://img.shields.io/badge/Microsoft%20Copilot-0078D4?style=flat-square&logo=microsoft&logoColor=white" /> coding assistance and productivity.
 - <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=flat-square" /> local multimodal inference (image description, tagging).
 - Vision tagging pipeline: descriptive + inspirational asset enrichment.
 - Planned: embedding search (<img alt="FAISS" src="https://img.shields.io/badge/FAISS-005571?style=flat-square" /> or <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />-based vectors) for semantic retrieval.
