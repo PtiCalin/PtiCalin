@@ -1,9 +1,3 @@
-<h1 align="center">🪐 PtiCalin</h1>
-<p align="center"><strong>Building modular knowledge systems, developer tooling, and creative automation.</strong></p>
-
-<p align="center">
-I'm a systems thinker and builder focused on <strong>metadata-driven automation</strong>, <strong>local-first tooling</strong>, and <strong>structured knowledge systems</strong>. My work bridges personal knowledge management (PKM), developer productivity, creative pipelines, and exploratory experiments across blockchain, AI, and worldbuilding. Each project reflects iterative learning, reproducible workflows, and a commitment to open documentation.
-</p>
 
 ---
 
@@ -19,9 +13,21 @@ I'm a systems thinker and builder focused on <strong>metadata-driven automation<
   <a href="https://www.tiktok.com/@pticalin"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 </p>
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; align-items: start;">
+---
 
-<div>
+
+<h1 align="center">🪐 PtiCalin</h1>
+<p align="center"><strong>Building modular knowledge systems, developer tooling, and creative automation.</strong></p>
+
+<p align="center">
+I'm a systems thinker and builder focused on <strong>metadata-driven automation</strong>, <strong>local-first tooling</strong>, and <strong>structured knowledge systems</strong>. My work bridges personal knowledge management (PKM), developer productivity, creative pipelines, and exploratory experiments across blockchain, AI, and worldbuilding. Each project reflects iterative learning, reproducible workflows, and a commitment to open documentation.
+</p>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## Learning Journey
 I follow a non-linear path: atypical formal studies, deep autodidactic cycles, and an intentional return to structured informatics education to formalize foundations and accelerate advanced tooling work.
@@ -44,9 +50,8 @@ I follow a non-linear path: atypical formal studies, deep autodidactic cycles, a
   - <img alt="Cross-pollination" src="https://img.shields.io/badge/Cross--pollination-8B5CF6?style=flat-square" /> apply concepts from systems design, worldbuilding, and data modeling back into personal knowledge tools.
   - <img alt="Continuous formalization" src="https://img.shields.io/badge/Continuous%20formalization-EC4899?style=flat-square" /> translate tacit shortcuts into explicit documented standards.
 
-</div>
-
-<div>
+</td>
+<td width="50%" valign="top">
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PtiCalin&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
@@ -54,6 +59,12 @@ I follow a non-linear path: atypical formal studies, deep autodidactic cycles, a
 
 ## Tech Stack Details
 Focused on local-first, modular, metadata-driven workflows. Each category lists current active use plus near-term evolution.
+
+</td>
+</tr>
+</table>
+
+<div>
 
 <details>
 <summary><strong>Languages</strong></summary>
