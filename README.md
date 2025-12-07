@@ -60,12 +60,6 @@ I follow a non-linear path: atypical formal studies, deep autodidactic cycles, a
 ## Tech Stack Details
 Focused on local-first, modular, metadata-driven workflows. Each category lists current active use plus near-term evolution.
 
-</td>
-</tr>
-</table>
-
-<div>
-
 <details>
 <summary><strong>Languages</strong></summary>
 
@@ -172,6 +166,12 @@ Focused on local-first, modular, metadata-driven workflows. Each category lists 
 </div>
 
 </div>
+
+</td>
+</tr>
+</table>
+
+<div>
 
 ---
 
