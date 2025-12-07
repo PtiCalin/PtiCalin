@@ -8,6 +8,7 @@ I'm a systems thinker and builder focused on <strong>metadata-driven automation<
 ---
 
 <p align="center">
+  <a href="https://buymeacoffee.com/charlieboui"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" /></a>
   <a href="https://facebook.com/O.oChAarli3"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://github.com/PtiCalin"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://instagram.com/ch.r.l"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -18,10 +19,6 @@ I'm a systems thinker and builder focused on <strong>metadata-driven automation<
   <a href="https://www.tiktok.com/@pticalin"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PtiCalin&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</p>
-
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; align-items: start;">
 
 <div>
@@ -29,16 +26,12 @@ I'm a systems thinker and builder focused on <strong>metadata-driven automation<
 ## Learning Journey
 I follow a non-linear path: atypical formal studies, deep autodidactic cycles, and an intentional return to structured informatics education to formalize foundations and accelerate advanced tooling work.
 
-### Timeline (Condensed)
+### Timeline
 - Early Exploration: Built small creative systems instead of following a traditional linear curriculum.
 - Autodidact Phase: Self-directed deep dives (systems thinking, scripting, metadata modeling, automation) using open courses, documentation, and reverse engineering existing tools.
 - Project-Centric Growth: Learned by constructing vault architectures, plugins, and analysis pipelines; emphasized reproducibility and validation.
 - Return to Formal Study (Informatics): Re-engaged with structured coursework to strengthen algorithms, data structures, networking, and software design patterns for long-term maintainability and scale.
 - Current Synthesis: Blending academic rigor with experimental prototyping; documenting processes so knowledge becomes portable and auditable.
-
-</div>
-
-<div>
 
 ## Founding Principles of my work 
 
@@ -53,9 +46,11 @@ I follow a non-linear path: atypical formal studies, deep autodidactic cycles, a
 
 </div>
 
-</div>
+<div>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PtiCalin&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</p>
 
 ## Tech Stack Details
 Focused on local-first, modular, metadata-driven workflows. Each category lists current active use plus near-term evolution.
@@ -162,6 +157,10 @@ Focused on local-first, modular, metadata-driven workflows. Each category lists 
 - Reproducible scripts: consistent outputs for data transforms.
 
 </details>
+
+</div>
+
+</div>
 
 ---
 
