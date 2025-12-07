@@ -22,6 +22,10 @@ I'm a systems thinker and builder focused on <strong>metadata-driven automation<
   <img src="https://github-profile-trophy.vercel.app/?username=PtiCalin&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </p>
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; align-items: start;">
+
+<div>
+
 ## Learning Journey
 I follow a non-linear path: atypical formal studies, deep autodidactic cycles, and an intentional return to structured informatics education to formalize foundations and accelerate advanced tooling work.
 
@@ -31,6 +35,10 @@ I follow a non-linear path: atypical formal studies, deep autodidactic cycles, a
 - Project-Centric Growth: Learned by constructing vault architectures, plugins, and analysis pipelines; emphasized reproducibility and validation.
 - Return to Formal Study (Informatics): Re-engaged with structured coursework to strengthen algorithms, data structures, networking, and software design patterns for long-term maintainability and scale.
 - Current Synthesis: Blending academic rigor with experimental prototyping; documenting processes so knowledge becomes portable and auditable.
+
+</div>
+
+<div>
 
 ## Founding Principles of my work 
 
@@ -42,6 +50,10 @@ I follow a non-linear path: atypical formal studies, deep autodidactic cycles, a
   - <img alt="Build-first" src="https://img.shields.io/badge/Build--first-3B82F6?style=flat-square" /> then abstract: code/prototype before theory summaries.
   - <img alt="Cross-pollination" src="https://img.shields.io/badge/Cross--pollination-8B5CF6?style=flat-square" /> apply concepts from systems design, worldbuilding, and data modeling back into personal knowledge tools.
   - <img alt="Continuous formalization" src="https://img.shields.io/badge/Continuous%20formalization-EC4899?style=flat-square" /> translate tacit shortcuts into explicit documented standards.
+
+</div>
+
+</div>
 
 ---
 
