@@ -58,7 +58,7 @@ I follow a non-linear path: atypical formal studies, deep autodidactic cycles, a
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PtiCalin&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=3" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PtiCalin&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=3" alt="GitHub Trophies" />
 </p>
 
 ## Tech Stack Details
