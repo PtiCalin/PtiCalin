@@ -54,13 +54,13 @@ I follow a non-linear path: atypical formal studies, deep autodidactic cycles, a
 <td width="50%" valign="top">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PtiCalin&theme=algolia&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PtiCalin&theme=algolia&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" style="max-width: 420px; width: 100%; height: auto;" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PtiCalin&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=3" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PtiCalin&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=3&row=6" alt="GitHub Trophies" />
 </p>
-
+s
 ## Tech Stack Details
 Focused on local-first, modular, metadata-driven workflows. Each category lists current active use plus near-term evolution.
 
@@ -205,6 +205,9 @@ Focused on local-first, modular, metadata-driven workflows. Each category lists 
 | **vault_note-blocks** | Notes | Functional blocks for notes (Vault style) | TypeScript | 🟢 Active | [Repo](https://github.com/PtiCalin/vault_note-blocks) |
 | **vault_nuggets** | Blockchain | Modular educational blockchain system | Python | 🧪 Prototype | Private |
 | **vault_summary-engine** | Notes | Auto-populates summary YAML field | TypeScript | 🟢 Active | [Repo](https://github.com/PtiCalin/vault_summary-engine) |
+
+## 🤝 Collaboration & Mentorship
+I am actively looking to collaborate on metadata-driven automation, local-first tooling, and creative systems. If you are open to mentoring or co-building around structured knowledge, data modeling, or developer productivity, I would love to connect. Reach out through LinkedIn or GitHub so we can explore a fit.
 
 ---
 
