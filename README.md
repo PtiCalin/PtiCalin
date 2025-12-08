@@ -54,8 +54,17 @@ I follow a non-linear path: atypical formal studies, deep autodidactic cycles, a
 <td width="50%" valign="top">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PtiCalin&theme=algolia&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+  <!-- Profile Views -->
+  <a href="https://github.com/PtiCalin">
+    <img src="https://komarev.com/ghpvc/?username=PtiCalin&label=Profile%20Views&color=6A8CAF&style=flat-square" alt="Profile Views" />
+  </a>
+  <br><br>
+
+  <!-- GitHub Stats -->
+  <a href="https://github.com/PtiCalin">
+    <img src="https://github-readme-stats.vercel.app/api?username=PtiCalin&show_icons=true&theme=calm&hide=issues&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <br><br>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PtiCalin&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=3&row=6" alt="GitHub Trophies" />
