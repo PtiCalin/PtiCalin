@@ -54,7 +54,7 @@ I follow a non-linear path: atypical formal studies, deep autodidactic cycles, a
 <td width="50%" valign="top">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PtiCalin&theme=algolia&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" style="max-width: 420px; width: 100%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PtiCalin&theme=algolia&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
