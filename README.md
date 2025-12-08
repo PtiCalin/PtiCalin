@@ -27,12 +27,16 @@ I'm a systems thinker and builder focused on <strong>metadata-driven automation<
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-## Learning Journey
+<p align="center">
+  <img alt="Learning in Public" src="https://img.shields.io/badge/Learning%20in%20Public-6B46C1?style=flat-square" />
+  <img alt="Open to Collaboration" src="https://img.shields.io/badge/Open%20to%20Collaboration-10B981?style=flat-square" />
+</p>
+
 I follow a non-linear path: atypical formal studies, deep autodidactic cycles, and an intentional return to structured informatics education to formalize foundations and accelerate advanced tooling work.
 
-### Timeline
+## Learning Journey
 - Early Exploration: Built small creative systems instead of following a traditional linear curriculum.
 - Autodidact Phase: Self-directed deep dives (systems thinking, scripting, metadata modeling, automation) using open courses, documentation, and reverse engineering existing tools.
 - Project-Centric Growth: Learned by constructing vault architectures, plugins, and analysis pipelines; emphasized reproducibility and validation.
@@ -51,7 +55,7 @@ I follow a non-linear path: atypical formal studies, deep autodidactic cycles, a
   - <img alt="Continuous formalization" src="https://img.shields.io/badge/Continuous%20formalization-EC4899?style=flat-square" /> translate tacit shortcuts into explicit documented standards.
 
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
 <p align="center">
   <!-- Profile Views -->
