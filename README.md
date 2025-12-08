@@ -66,10 +66,10 @@ I follow a non-linear path: atypical formal studies, deep autodidactic cycles, a
   </a>
   <br><br>
 
-<p align="center">
+  <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=PtiCalin&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=3&row=6" alt="GitHub Trophies" />
 </p>
-s
+
 ## Tech Stack Details
 Focused on local-first, modular, metadata-driven workflows. Each category lists current active use plus near-term evolution.
 
