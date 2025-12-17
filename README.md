@@ -71,7 +71,7 @@ I follow a non-linear path: atypical formal studies, deep autodidactic cycles, a
   <br><br>
 
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=PtiCalin&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=3&row=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PtiCalin&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;column=3&amp;row=6" alt="GitHub Trophies" />
 </p>
 
 ## Tech Stack Details
@@ -194,30 +194,37 @@ Focused on local-first, modular, metadata-driven workflows. Each category lists 
 
 ## 🚀 Projects
 
-| 📦 Project | 🏷️ Domain | 💡 Purpose | 🛠️ Stack | 📊 Status | 🔗 Link |
-|------------|-----------|-----------|----------|----------|---------|
-| **A bit about PtiCalin** | Profile | Personal README and profile info | Markdown | 🟢 Active | [Repo](https://github.com/PtiCalin/PtiCalin) |
-| **UNCHAINED** | Audio / DJ | Post-modern music management software | TypeScript | 🟢 Active | [Repo](https://github.com/PtiCalin/UNCHAINED) |
-| **Ophthalmology Consult Manager** | Healthcare | Manage consults and referrals | Shell | 🔨 WIP | Private |
-| **School Vault** | PKM / School | Digital school setup | Shell | 🔨 WIP | Private |
-| **temp_repo-gen** | Dev Productivity | Official general repository template | Shell | 🟢 Active | [Repo](https://github.com/PtiCalin/temp_repo-gen) |
-| **ilovesnoopdogg** | Web Design | Creative microsite for IFT2720 | HTML | 🧪 Prototype | Private |
-| **temp_lean-project_repo** | Dev Productivity | Lighter repo template for projects | Shell | 🟢 Active | [Repo](https://github.com/PtiCalin/temp_lean-project_repo) |
-| **nano-banana-hackathon-kit** | Hackathon | Fork of Nano Banana starter kit | Jupyter Notebook | 🟢 Active | [Repo](https://github.com/PtiCalin/nano-banana-hackathon-kit) |
-| **MUHC Knowledge Base** | Healthcare | Tool for MAEC clinic secretaries | — | 🔨 WIP | Private |
-| **simple-game-engine** | Game Dev | Handcrafted engine for narrative experiments | Python | 🧪 Prototype | [Repo](https://github.com/PtiCalin/simple-game-engine) |
-| **vaultops** | Privacy Lab | Self-hosted cybersecurity lab | Python | 🧪 Prototype | Private |
-| **Awesome Test Vault** | PKM | Obsidian-based personal knowledge system | Python | 🔨 WIP | [Repo](https://github.com/PtiCalin/Awesome-Test-Vault) |
-| **vault_image-description** | Vision AI | Image description & tagging | TypeScript | 🧪 Prototype | [Repo](https://github.com/PtiCalin/vault_image-description) |
-| **temp_repo-obsidian-plugin** | Dev Template | Obsidian plugin template (TypeScript) | TypeScript | 🟢 Active | [Repo](https://github.com/PtiCalin/temp_repo-obsidian-plugin) |
-| **vault_image-description_temp** | Vision AI | Ollama-powered image captioning | JavaScript | 🧪 Prototype | [Repo](https://github.com/PtiCalin/vault_image-description_temp) |
-| **obsidian-releases** | Community | Fork of Obsidian community plugins list | — | 🟢 Active | [Repo](https://github.com/PtiCalin/obsidian-releases) |
-| **vault_image-map** | UX | Interactive image navigation in Obsidian | TypeScript | 🟢 Active | [Repo](https://github.com/PtiCalin/vault_image-map) |
-| **vault_image-generator** | Creative | Generate images from notes | TypeScript | 🟢 Active | [Repo](https://github.com/PtiCalin/vault_image-generator) |
-| **VaultOS** | Obsidian Plugin | Modular orchestration engine for Obsidian | TypeScript | 🔨 WIP | [Repo](https://github.com/PtiCalin/VaultOs) |
-| **vault_note-blocks** | Notes | Functional blocks for notes (Vault style) | TypeScript | 🟢 Active | [Repo](https://github.com/PtiCalin/vault_note-blocks) |
-| **vault_nuggets** | Blockchain | Modular educational blockchain system | Python | 🧪 Prototype | Private |
-| **vault_summary-engine** | Notes | Auto-populates summary YAML field | TypeScript | 🟢 Active | [Repo](https://github.com/PtiCalin/vault_summary-engine) |
+| 📦 Project | 🔒 Visibility | 💬 Summary | 🛠️ Stack | 📄 License | ⭐/🍴 | 🔗 Link |
+|------------|---------------|------------|-----------|------------|--------|---------|
+| **test-game** | Public | C# prototype experiments | C# | MIT | [⭐ 1](https://github.com/PtiCalin/test-game/stargazers) | [Repo](https://github.com/PtiCalin/test-game) |
+| **PtiCalin** | Public | Personal README and profile info | Markdown | — | [⭐ 1](https://github.com/PtiCalin/PtiCalin/stargazers) | [Repo](https://github.com/PtiCalin/PtiCalin) |
+| **simple-game-engine** | Public | Handcrafted point-and-click engine | Python | MIT | [⭐ 1](https://github.com/PtiCalin/simple-game-engine/stargazers) | [Repo](https://github.com/PtiCalin/simple-game-engine) |
+| **ophthalmology-dataset-harmonization** | Public | Multi-dataset harmonization pipeline | Python | MIT | [⭐ 1](https://github.com/PtiCalin/ophthalmology-dataset-harmonization/stargazers) | [Repo](https://github.com/PtiCalin/ophthalmology-dataset-harmonization) |
+| **UNCHAINED** | Public | Post-modern music management software | TypeScript | MIT | [⭐ 2](https://github.com/PtiCalin/UNCHAINED/stargazers) / [🍴 1](https://github.com/PtiCalin/UNCHAINED/forks) | [Repo](https://github.com/PtiCalin/UNCHAINED) |
+| **Ophthalmology\_Consult\_Manager** | Private | Consult and referral management system | Shell | MIT | [⭐ 1](https://github.com/PtiCalin/Ophthalmology_Consult_Manager/stargazers) | [Repo](https://github.com/PtiCalin/Ophthalmology_Consult_Manager) |
+| **School-Vault** | Private | Digital school setup | Shell | MIT | [⭐ 1](https://github.com/PtiCalin/School-Vault/stargazers) | [Repo](https://github.com/PtiCalin/School-Vault) |
+| **temp\_repo-gen** | Public template | Official general repository template | Shell | MIT | [⭐ 1](https://github.com/PtiCalin/temp_repo-gen/stargazers) | [Repo](https://github.com/PtiCalin/temp_repo-gen) |
+| **ilovesnoopdogg** | Private | Playful HTML/CSS microsite for IFT2720 | HTML | Other | [⭐ 1](https://github.com/PtiCalin/ilovesnoopdogg/stargazers) | [Repo](https://github.com/PtiCalin/ilovesnoopdogg) |
+| **temp\_lean-project\_repo** | Public | Lightweight project template | Shell | MIT | [⭐ 1](https://github.com/PtiCalin/temp_lean-project_repo/stargazers) | [Repo](https://github.com/PtiCalin/temp_lean-project_repo) |
+| **nano-banana-hackathon-kit** | Public | 🍌 Official Nano Banana Hackathon starter (fork) | Jupyter Notebook | Apache-2.0 | — | [Repo](https://github.com/PtiCalin/nano-banana-hackathon-kit) |
+| **MUHC-Knowledge-Base** | Private | Tooling for MAEC clinic secretaries | — | — | [⭐ 1](https://github.com/PtiCalin/MUHC-Knowledge-Base/stargazers) | [Repo](https://github.com/PtiCalin/MUHC-Knowledge-Base) |
+| **vaultops** | Private | Self-hosted cybersecurity lab | Python | Other | [⭐ 1](https://github.com/PtiCalin/vaultops/stargazers) | [Repo](https://github.com/PtiCalin/vaultops) |
+| **Awesome-Test-Vault** | Public | Obsidian-based personal knowledge system | Python | Other | [⭐ 3](https://github.com/PtiCalin/Awesome-Test-Vault/stargazers) | [Repo](https://github.com/PtiCalin/Awesome-Test-Vault) |
+| **vault\_image-description** | Public | Image description and tagging | TypeScript | — | [⭐ 1](https://github.com/PtiCalin/vault_image-description/stargazers) | [Repo](https://github.com/PtiCalin/vault_image-description) |
+| **temp\_repo-obsidian-plugin** | Public template | Modular Obsidian plugin starter | TypeScript | — | [⭐ 2](https://github.com/PtiCalin/temp_repo-obsidian-plugin/stargazers) | [Repo](https://github.com/PtiCalin/temp_repo-obsidian-plugin) |
+| **vault\_image-description\_temp** | Public | Ollama-powered image description | JavaScript | MIT | [⭐ 1](https://github.com/PtiCalin/vault_image-description_temp/stargazers) | [Repo](https://github.com/PtiCalin/vault_image-description_temp) |
+| **obsidian-releases** | Public | Fork of Obsidian community plugins list | — | — | [⭐ 1](https://github.com/PtiCalin/obsidian-releases/stargazers) | [Repo](https://github.com/PtiCalin/obsidian-releases) |
+| **vault\_image-generator** | Public | Generate images directly from notes | TypeScript | MIT | [⭐ 1](https://github.com/PtiCalin/vault_image-generator/stargazers) | [Repo](https://github.com/PtiCalin/vault_image-generator) |
+| **VaultOs** | Public | Modular orchestration engine for Obsidian | TypeScript | Other | [⭐ 1](https://github.com/PtiCalin/VaultOs/stargazers) | [Repo](https://github.com/PtiCalin/VaultOs) |
+| **vault\_note-blocks** | Public | Functional Vault-style note blocks | TypeScript | MIT | [⭐ 1](https://github.com/PtiCalin/vault_note-blocks/stargazers) | [Repo](https://github.com/PtiCalin/vault_note-blocks) |
+| **vault\_nuggets** | Private | Modular blockchain learning system | Python | MIT | [⭐ 1](https://github.com/PtiCalin/vault_nuggets/stargazers) | [Repo](https://github.com/PtiCalin/vault_nuggets) |
+| **vault\_summary-engine** | Public | Auto-populates summary YAML fields | TypeScript | MIT | [⭐ 1](https://github.com/PtiCalin/vault_summary-engine/stargazers) | [Repo](https://github.com/PtiCalin/vault_summary-engine) |
+| **december** | Public | Fork of ntegrals/december for local LLMs | TypeScript | MIT | [⭐ 1](https://github.com/PtiCalin/december/stargazers) | [Repo](https://github.com/PtiCalin/december) |
+| **skills-communicate-using-markdown** | Public archive | GitHub Skills exercise | — | MIT | [⭐ 1](https://github.com/PtiCalin/skills-communicate-using-markdown/stargazers) | [Repo](https://github.com/PtiCalin/skills-communicate-using-markdown) |
+| **skills-introduction-to-github** | Public archive | GitHub Skills exercise | — | MIT | [⭐ 1](https://github.com/PtiCalin/skills-introduction-to-github/stargazers) | [Repo](https://github.com/PtiCalin/skills-introduction-to-github) |
+| **obsidian-js-engine-plugin** | Public | Fork of mProjectsCode/obsidian-js-engine-plugin | TypeScript | GPL-3.0 | [⭐ 1](https://github.com/PtiCalin/obsidian-js-engine-plugin/stargazers) | [Repo](https://github.com/PtiCalin/obsidian-js-engine-plugin) |
+| **horizon-banking** | Public | Fork of mohamedelmougy/horizon-banking | TypeScript | — | [⭐ 1](https://github.com/PtiCalin/horizon-banking/stargazers) | [Repo](https://github.com/PtiCalin/horizon-banking) |
+| **obsidian-sample-plugin** | Public template | Fork of obsidianmd/obsidian-sample-plugin | TypeScript | BSD-0 | [⭐ 1](https://github.com/PtiCalin/obsidian-sample-plugin/stargazers) | [Repo](https://github.com/PtiCalin/obsidian-sample-plugin) |
 
 ## 🤝 Collaboration & Mentorship
 I am actively looking to collaborate on metadata-driven automation, local-first tooling, and creative systems. If you are open to mentoring or co-building around structured knowledge, data modeling, or developer productivity, I would love to connect. Reach out through LinkedIn or GitHub so we can explore a fit.
