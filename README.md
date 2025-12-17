@@ -70,8 +70,12 @@ I follow a non-linear path: atypical formal studies, deep autodidactic cycles, a
   </a>
   <br><br>
 
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PtiCalin&layout=compact&theme=calm&hide_border=true" alt="Top Languages" />
+  <br><br>
+
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=PtiCalin&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;column=3&amp;row=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PtiCalin&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;column=3&amp;row=6" alt="GitHub Trophies" />
 </p>
 
 ## Tech Stack Details
