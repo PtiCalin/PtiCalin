@@ -36,23 +36,34 @@ I'm a systems thinker and builder focused on <strong>metadata-driven automation<
 
 I follow a non-linear path: atypical formal studies, deep autodidactic cycles, and an intentional return to structured informatics education to formalize foundations and accelerate advanced tooling work.
 
-## Learning Journey
-- Early Exploration: Built small creative systems instead of following a traditional linear curriculum.
-- Autodidact Phase: Self-directed deep dives (systems thinking, scripting, metadata modeling, automation) using open courses, documentation, and reverse engineering existing tools.
-- Project-Centric Growth: Learned by constructing vault architectures, plugins, and analysis pipelines; emphasized reproducibility and validation.
-- Return to Formal Study (Informatics): Re-engaged with structured coursework to strengthen algorithms, data structures, networking, and software design patterns for long-term maintainability and scale.
-- Current Synthesis: Blending academic rigor with experimental prototyping; documenting processes so knowledge becomes portable and auditable.
 
-## Founding Principles of my work 
+## Skills & Journey
 
-  - <img alt="Local-first" src="https://img.shields.io/badge/Local--first-4A5568?style=flat-square" /> prefer offline-capable, self-owned data stores.
-  - <img alt="Metadata-first" src="https://img.shields.io/badge/Metadata--first-6B46C1?style=flat-square" /> model before UI; schemas drive automation.
-  - <img alt="Modular" src="https://img.shields.io/badge/Modular-10B981?style=flat-square" /> composition: isolate concerns into pluggable units.
-  - <img alt="Traceable" src="https://img.shields.io/badge/Traceable-F59E0B?style=flat-square" /> log decisions, schema shifts, structural refactors.
-  - <img alt="Iterative" src="https://img.shields.io/badge/Iterative-EF4444?style=flat-square" /> layering: build thin vertical slice → refine → generalize.
-  - <img alt="Build-first" src="https://img.shields.io/badge/Build--first-3B82F6?style=flat-square" /> then abstract: code/prototype before theory summaries.
-  - <img alt="Cross-pollination" src="https://img.shields.io/badge/Cross--pollination-8B5CF6?style=flat-square" /> apply concepts from systems design, worldbuilding, and data modeling back into personal knowledge tools.
-  - <img alt="Continuous formalization" src="https://img.shields.io/badge/Continuous%20formalization-EC4899?style=flat-square" /> translate tacit shortcuts into explicit documented standards.
+Over the past several years, I have worked at the intersection of healthcare software development and clinical research. My experience includes building registry studies, designing harmonization frameworks across disease areas and study sites, and driving interoperability in complex data environments. Today, in my role as an administration agent at one of Canada’s largest ophthalmology tertiary care centers, I continue to see firsthand how critical standardized, high‑quality datasets are for advancing patient care and research.
+
+With a background spanning healthcare coordination, community advocacy, and research support, I now focus on digital infrastructure, open‑source tooling, and personal knowledge systems. My technical journey began through automation and documentation, evolving into developing GitHub repositories, custom Obsidian workflows, and creative digital tools under the alias PtiCalin. This persona is devoted to building spaces that are gentle, funny, engaging, self‑instructive, deeply structured, scalable, and automated.
+
+Whether I am managing a clinical admission tracker, designing a blockchain tutorial series, or building cozy surrealist vaults, I aim to bring clarity, compassion, and playfulness to everything I create.
+
+### Technical Growth Timeline
+
+- **Early Exploration:** Built creative systems outside traditional curriculum, fostering curiosity and independence.
+- **Autodidact Phase:** Deep dives into systems thinking, scripting, metadata modeling, and automation using open resources and reverse engineering.
+- **Project-Centric Growth:** Developed vault architectures, plugins, and analysis pipelines with a focus on reproducibility and validation.
+- **Formal Study (Informatics):** Strengthened algorithms, data structures, networking, and design patterns for scalable, maintainable solutions.
+- **Current Synthesis:** Blending academic rigor with experimental prototyping, documenting processes for portable, auditable knowledge.
+
+## Founding Principles of my Work
+
+  - <img alt="Local-first" src="https://img.shields.io/badge/Local--first-4A5568?style=flat-square" /> Prefer offline-capable, self-owned data stores.
+  - <img alt="Metadata-first" src="https://img.shields.io/badge/Metadata--first-6B46C1?style=flat-square" /> Model before UI; schemas drive automation.
+  - <img alt="Modular" src="https://img.shields.io/badge/Modular-10B981?style=flat-square" /> Composition: isolate concerns into pluggable units.
+  - <img alt="Traceable" src="https://img.shields.io/badge/Traceable-F59E0B?style=flat-square" /> Log decisions, schema shifts, structural refactors.
+  - <img alt="Iterative" src="https://img.shields.io/badge/Iterative-EF4444?style=flat-square" /> Layering: build thin vertical slice → refine → generalize.
+  - <img alt="Build-first" src="https://img.shields.io/badge/Build--first-3B82F6?style=flat-square" /> Then abstract: code/prototype before theory summaries.
+  - <img alt="Cross-pollination" src="https://img.shields.io/badge/Cross--pollination-8B5CF6?style=flat-square" /> Apply concepts from systems design, worldbuilding, and data modeling back into personal knowledge tools.
+  - <img alt="Continuous formalization" src="https://img.shields.io/badge/Continuous%20formalization-EC4899?style=flat-square" /> Translate tacit shortcuts into explicit documented standards.
+  - <img alt="Sharing is Caring" src="https://img.shields.io/badge/Sharing%20is%20Caring-22C55E?style=flat-square" /> Open-source collaboration: I believe knowledge and tools grow stronger when shared. My approach is rooted in transparency, mentorship, and building together—whether through documentation, code, or community support.
 
 </td>
 <td width="40%" valign="top">
@@ -71,11 +82,13 @@ I follow a non-linear path: atypical formal studies, deep autodidactic cycles, a
   <br><br>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PtiCalin&layout=compact&theme=calm&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PtiCalin&layout=compact&theme=calm&hide_border=true&langs_count=10" alt="Top Languages" />
   <br><br>
 
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=PtiCalin&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;column=3&amp;row=6" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=PtiCalin&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=3" alt="GitHub Trophies" loading="lazy" />
+  </a>
 </p>
 
 ## Tech Stack Details
