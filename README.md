@@ -63,7 +63,8 @@ Whether I am managing a clinical admission tracker, designing a blockchain tutor
   - <img alt="Build-first" src="https://img.shields.io/badge/Build--first-3B82F6?style=flat-square" /> Then abstract: code/prototype before theory summaries.
   - <img alt="Cross-pollination" src="https://img.shields.io/badge/Cross--pollination-8B5CF6?style=flat-square" /> Apply concepts from systems design, worldbuilding, and data modeling back into personal knowledge tools.
   - <img alt="Continuous formalization" src="https://img.shields.io/badge/Continuous%20formalization-EC4899?style=flat-square" /> Translate tacit shortcuts into explicit documented standards.
-  - <img alt="Sharing is Caring" src="https://img.shields.io/badge/Sharing%20is%20Caring-22C55E?style=flat-square" /> Open-source collaboration: I believe knowledge and tools grow stronger when shared. My approach is rooted in transparency, mentorship, and building together—whether through documentation, code, or community support.
+  - <img alt="Continuous formalization" src="https://img.shields.io/badge/Continuous%20formalization-1e293b?style=flat-square" /> Translate tacit shortcuts into explicit documented standards.
+  - <img alt="Sharing is Caring" src="https://img.shields.io/badge/Sharing%20is%20Caring-EC4899?style=flat-square" /> Open-source collaboration: I believe knowledge and tools grow stronger when shared. My approach is rooted in transparency, mentorship, and building together—whether through documentation, code, or community support.
 
 </td>
 <td width="40%" valign="top">
@@ -87,7 +88,7 @@ Whether I am managing a clinical admission tracker, designing a blockchain tutor
 
   <!-- GitHub Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PtiCalin&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=3" alt="GitHub Trophies" loading="lazy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=PtiCalin&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=3" alt="GitHub Trophies"/>
   </a>
 </p>
 
