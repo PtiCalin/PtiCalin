@@ -55,15 +55,14 @@ Whether I am managing a clinical admission tracker, designing a blockchain tutor
 
 ## Founding Principles of my Work
 
-  - <img alt="Local-first" src="https://img.shields.io/badge/Local--first-4A5568?style=flat-square" /> Prefer offline-capable, self-owned data stores.
-  - <img alt="Metadata-first" src="https://img.shields.io/badge/Metadata--first-6B46C1?style=flat-square" /> Model before UI; schemas drive automation.
-  - <img alt="Modular" src="https://img.shields.io/badge/Modular-10B981?style=flat-square" /> Composition: isolate concerns into pluggable units.
-  - <img alt="Traceable" src="https://img.shields.io/badge/Traceable-F59E0B?style=flat-square" /> Log decisions, schema shifts, structural refactors.
-  - <img alt="Iterative" src="https://img.shields.io/badge/Iterative-EF4444?style=flat-square" /> Layering: build thin vertical slice → refine → generalize.
-  - <img alt="Build-first" src="https://img.shields.io/badge/Build--first-3B82F6?style=flat-square" /> Then abstract: code/prototype before theory summaries.
-  - <img alt="Cross-pollination" src="https://img.shields.io/badge/Cross--pollination-8B5CF6?style=flat-square" /> Apply concepts from systems design, worldbuilding, and data modeling back into personal knowledge tools.
-  - <img alt="Continuous formalization" src="https://img.shields.io/badge/Continuous%20formalization-EC4899?style=flat-square" /> Translate tacit shortcuts into explicit documented standards.
-  - <img alt="Continuous formalization" src="https://img.shields.io/badge/Continuous%20formalization-1e293b?style=flat-square" /> Translate tacit shortcuts into explicit documented standards.
+  - <img alt="Local-first" src="https://img.shields.io/badge/Local--first-059669?style=flat-square" /> Prefer offline-capable, self-owned data stores.
+  - <img alt="Metadata-first" src="https://img.shields.io/badge/Metadata--first-2563EB?style=flat-square" /> Model before UI; schemas drive automation.
+  - <img alt="Modular" src="https://img.shields.io/badge/Modular-F59E0B?style=flat-square" /> Composition: isolate concerns into pluggable units.
+  - <img alt="Traceable" src="https://img.shields.io/badge/Traceable-DC2626?style=flat-square" /> Log decisions, schema shifts, structural refactors.
+  - <img alt="Iterative" src="https://img.shields.io/badge/Iterative-7C3AED?style=flat-square" /> Layering: build thin vertical slice → refine → generalize.
+  - <img alt="Build-first" src="https://img.shields.io/badge/Build--first-0891B2?style=flat-square" /> Then abstract: code/prototype before theory summaries.
+  - <img alt="Cross-pollination" src="https://img.shields.io/badge/Cross--pollination-C2410C?style=flat-square" /> Apply concepts from systems design, worldbuilding, and data modeling back into personal knowledge tools.
+  - <img alt="Continuous formalization" src="https://img.shields.io/badge/Continuous%20formalization-1E40AF?style=flat-square" /> Translate tacit shortcuts into explicit documented standards.
   - <img alt="Sharing is Caring" src="https://img.shields.io/badge/Sharing%20is%20Caring-EC4899?style=flat-square" /> Open-source collaboration: I believe knowledge and tools grow stronger when shared. My approach is rooted in transparency, mentorship, and building together—whether through documentation, code, or community support.
 
 </td>
