@@ -1,4 +1,4 @@
-
+﻿
 ---
 
 <p align="center">
@@ -34,24 +34,13 @@ I'm a systems thinker and builder focused on <strong>metadata-driven automation<
   <img alt="Open to Collaboration" src="https://img.shields.io/badge/Open%20to%20Collaboration-10B981?style=flat-square" />
 </p>
 
-I follow a non-linear path: atypical formal studies, deep autodidactic cycles, and an intentional return to structured informatics education to formalize foundations and accelerate advanced tooling work.
+## Interests & Background
 
+**Healthcare × Data Interoperability**  Years of building registry studies, harmonization frameworks, and clinical research pipelines at major ophthalmology centers. Deeply invested in standardized, high-quality datasets that improve patient outcomes.
 
-## Skills & Journey
+**Developer Tooling, KMS and Libraries**  Obsidian plugin development, vault architectures, and metadata-driven automation. Obsessed with reproducible workflows, schema-first design, and local-first infrastructure.
 
-Over the past several years, I have worked at the intersection of healthcare software development and clinical research. My experience includes building registry studies, designing harmonization frameworks across disease areas and study sites, and driving interoperability in complex data environments. Today, in my role as an administration agent at one of Canada’s largest ophthalmology tertiary care centers, I continue to see firsthand how critical standardized, high‑quality datasets are for advancing patient care and research.
-
-With a background spanning healthcare coordination, community advocacy, and research support, I now focus on digital infrastructure, open‑source tooling, and personal knowledge systems. My technical journey began through automation and documentation, evolving into developing GitHub repositories, custom Obsidian workflows, and creative digital tools under the alias PtiCalin. This persona is devoted to building spaces that are gentle, funny, engaging, self‑instructive, deeply structured, scalable, and automated.
-
-Whether I am managing a clinical admission tracker, designing a blockchain tutorial series, or building cozy surrealist vaults, I aim to bring clarity, compassion, and playfulness to everything I create.
-
-### Technical Growth Timeline
-
-- **Early Exploration:** Built creative systems outside traditional curriculum, fostering curiosity and independence.
-- **Autodidact Phase:** Deep dives into systems thinking, scripting, metadata modeling, and automation using open resources and reverse engineering.
-- **Project-Centric Growth:** Developed vault architectures, plugins, and analysis pipelines with a focus on reproducibility and validation.
-- **Formal Study (Informatics):** Strengthened algorithms, data structures, networking, and design patterns for scalable, maintainable solutions.
-- **Current Synthesis:** Blending academic rigor with experimental prototyping, documenting processes for portable, auditable knowledge.
+**Creative Systems**  Blockchain tutorials, worldbuilding vaults, and experimental prototypes. I blend academic rigor with playful experimentation—documenting everything for portable, auditable knowledge.
 
 ## Founding Principles of my Work
 
