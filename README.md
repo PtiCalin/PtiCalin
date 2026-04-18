@@ -71,7 +71,7 @@ I'm a systems thinker and builder focused on <strong>metadata-driven automation<
   <br><br>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PtiCalin&layout=compact&theme=calm&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PtiCalin&layout=compact&theme=calm&hide_border=true&langs_count=20" alt="Top Languages" />
   <br><br>
 
   <!-- GitHub Trophies -->
