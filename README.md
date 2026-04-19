@@ -49,6 +49,11 @@ I'm a systems thinker and builder focused on <strong>metadata-driven automation<
 
 I design and ship local-first, modular systems that connect research, personal knowledge, and developer workflows. The core problems I am trying to fix are fragmented information across tools, repetitive manual processes, and low-trust pipelines that are hard to reproduce or audit. My projects focus on turning scattered notes and datasets into structured, interoperable, and automation-ready systems that reduce friction, improve clarity, and make collaboration easier.
 
+**High Value Projects**
+
+- **[vault-library-pipeline](https://github.com/PtiCalin/vault-library-pipeline)** solves cross-tool fragmentation by standardizing research intake from Zotero into Obsidian using strict naming conventions and YAML frontmatter. This turns scattered references, notes, and metadata into one structured and interoperable knowledge flow.
+- **[Awesome-Test-Vault](https://github.com/PtiCalin/Awesome-Test-Vault)** reduces repetitive manual organization by providing a reusable vault architecture with predictable structures, templates, and automation patterns. The result is faster setup, lower maintenance overhead, and clearer long-term knowledge operations.
+- **[cpp](https://github.com/PtiCalin/cpp)** addresses low-trust and hard-to-audit learning pipelines through transparent, step-by-step examples and documented progression. By making the learning path explicit and reproducible, it becomes easier to verify assumptions, review decisions, and iterate confidently.
 
 **Current Roles**
 - Université de Montréal, Informatics Student 2025-present
@@ -114,6 +119,7 @@ Multidisciplinary professional with experience in research coordination, digital
     <img src="https://komarev.com/ghpvc/?username=PtiCalin&label=Profile%20Views&color=94A48F&style=flat-square" alt="Profile Views" />
   </a>
 
+ ### Dev Stats
 <!-- Streak -->
   <a href="https://github.com/PtiCalin">
     <img src="https://streak-stats.demolab.com?user=PtiCalin&background=1F2A2A&border=4A5A57&stroke=94A48F&ring=DDA77B&fire=F39C6B&currStreakNum=E3E0D8&currStreakLabel=94A48F&sideNums=C6AA9A&sideLabels=94A48F&dates=A99F96&border_radius=12" alt="GitHub Streak" />
@@ -129,13 +135,26 @@ Multidisciplinary professional with experience in research coordination, digital
 
   <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PtiCalin&bg_color=1F2A2A&color=E3E0D8&line=94A48F&point=DDA77B&area=true&area_color=4A5A57&&border_color=4A5A57&border_radius=12" alt="Contribution Graph" style="border-radius:12px;" />
-  <br><br>
 
   <!-- GitHub Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://trophy.ryglcloud.net/?username=PtiCalin&no-frame=true&no-bg=true&column=3&line=5&margin-w=10&margin-h=10&theme=chalk" alt="GitHub Trophies"/>
   </a>
 
+  ### Top Repositories
+
+  <!-- Top Repositorie Cards -->
+  <a href="https://github.com/PtiCalin/cpp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PtiCalin&repo=cpp&bg_color=1F2A2A&title_color=94A48F&text_color=E3E0D8&icon_color=DDA77B&border_color=4A5A57&border_radius=12" alt="Pinned Repo: cpp" />
+  </a>
+
+  <a href="https://github.com/PtiCalin/Awesome-Test-Vault">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PtiCalin&repo=Awesome-Test-Vault&bg_color=1F2A2A&title_color=94A48F&text_color=E3E0D8&icon_color=DDA77B&border_color=4A5A57&border_radius=12" alt="Pinned Repo: Awesome-Test-Vault" />
+  </a>
+  
+  <a href="https://github.com/PtiCalin/vault-library-pipeline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PtiCalin&repo=vault-library-pipeline&bg_color=1F2A2A&title_color=94A48F&text_color=E3E0D8&icon_color=DDA77B&border_color=4A5A57&border_radius=12" alt="Pinned Repo: vault-library-pipeline" />
+  </a>
 </p>
 
 ### Tech Stack
@@ -281,22 +300,6 @@ I focus on local-first, modular, metadata-driven stack with active tools and nea
 - Reproducible transform scripts.
 
 </details>
-
-### Top repositories
-
-  <!-- Top Repositorie Cards -->
-  <a href="https://github.com/PtiCalin/cpp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PtiCalin&repo=cpp&bg_color=1F2A2A&title_color=94A48F&text_color=E3E0D8&icon_color=DDA77B&border_color=4A5A57&border_radius=12" alt="Pinned Repo: cpp" />
-  </a>
-  <br><br>
-  <a href="https://github.com/PtiCalin/Awesome-Test-Vault">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PtiCalin&repo=Awesome-Test-Vault&bg_color=1F2A2A&title_color=94A48F&text_color=E3E0D8&icon_color=DDA77B&border_color=4A5A57&border_radius=12" alt="Pinned Repo: Awesome-Test-Vault" />
-  </a>
-  <br><br>
-  <a href="https://github.com/PtiCalin/vault-library-pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PtiCalin&repo=vault-library-pipeline&bg_color=1F2A2A&title_color=94A48F&text_color=E3E0D8&icon_color=DDA77B&border_color=4A5A57&border_radius=12" alt="Pinned Repo: vault-library-pipeline" />
-  </a>
-  <br><br>
 
 </div>
 
