@@ -20,7 +20,7 @@
 <p align="center"><strong>Building modular knowledge systems, developer tooling, and creative automation.</strong></p>
 
 <p align="center">
-I'm a systems thinker and builder focused on <strong>metadata-driven automation</strong>, <strong>local-first tooling</strong>, and <strong>structured knowledge systems</strong>. My work bridges personal knowledge management (PKM), developer productivity, creative pipelines, and exploratory experiments across blockchain, AI, and worldbuilding. Each project reflects iterative learning, reproducible workflows, and a commitment to open documentation.
+I'm a systems thinker and builder that turn fragmented, real-world information into structured, reliable workflows which focus on <strong>metadata-driven automation</strong>, <strong>local-first tooling</strong>, and <strong>structured knowledge systems</strong>. My work bridges my background in healthcare, research, and development. Each project lets me handle messy data, design robust pipelines, and ship usable tools that reflect iterative learning, reproducible workflows, and a commitment to open documentation.
 </p>
 
 ---
@@ -69,25 +69,7 @@ I design and ship local-first, modular systems that connect research, personal k
 
 ### Academic & Clinical Profile
 
-<p align="center">
-  <img alt="#atopic-dermatitis" src="https://img.shields.io/badge/%23atopic--dermatitis-94A48F?style=flat-square" />
-  <img alt="#patient-engagement" src="https://img.shields.io/badge/%23patient--engagement-7B9985?style=flat-square" />
-  <img alt="#clinical-research" src="https://img.shields.io/badge/%23clinical--research-788882?style=flat-square" />
-  <img alt="#data-harmonization" src="https://img.shields.io/badge/%23data--harmonization-889F8A?style=flat-square" />
-  <img alt="#health-data" src="https://img.shields.io/badge/%23health--data-A99F96?style=flat-square" />
-  <img alt="#digital-health" src="https://img.shields.io/badge/%23digital--health-C0BDA5?style=flat-square" />
-  <img alt="#knowledge-systems" src="https://img.shields.io/badge/%23knowledge--systems-71677C?style=flat-square" />
-  <img alt="#knowledge-management" src="https://img.shields.io/badge/%23knowledge--management-83626D?style=flat-square" />
-  <img alt="#metadata-driven" src="https://img.shields.io/badge/%23metadata--driven-B9826D?style=flat-square" />
-  <img alt="#system-architecture" src="https://img.shields.io/badge/%23system--architecture-945D5E?style=flat-square" />
-  <img alt="#interoperability" src="https://img.shields.io/badge/%23interoperability-DDA77B?style=flat-square" />
-  <img alt="#open-science" src="https://img.shields.io/badge/%23open--science-C6AA9A?style=flat-square" />
-  <img alt="#open-source" src="https://img.shields.io/badge/%23open--source-CC978E?style=flat-square" />
-  <img alt="#local-first" src="https://img.shields.io/badge/%23local--first-261447?style=flat-square" />
-  <img alt="#automation" src="https://img.shields.io/badge/%23automation-F39C6B?style=flat-square" />
-</p>
-
-Multidisciplinary professional with experience in research coordination, digital health, and user-centered product design. Currently transitioning into full-stack development with a focus on automation, open-source tools, and decentralized infrastructure. I build systems that connect people, knowledge, and technology with clarity and purpose.
+With multidisciplinary experience in research coordination, digital health, and user-centered product design, I build systems that turn fragmented, real-world information into structured, reliable workflows. My background in healthcare, research, and development lets me handle messy data, design robust pipelines, and ship usable tools.
 
 **Selected Publications**
 - [Burden of inpatient and emergency department care for atopic dermatitis in Canada, 2016-2021](https://www.researchgate.net/profile/Charlie-Bouchard) (2024)
@@ -300,6 +282,26 @@ I focus on local-first, modular, metadata-driven stack with active tools and nea
 - Reproducible transform scripts.
 
 </details>
+
+### Topics
+
+<p align="center">
+  <img alt="#atopic-dermatitis" src="https://img.shields.io/badge/%23atopic--dermatitis-94A48F?style=flat-square" />
+  <img alt="#patient-engagement" src="https://img.shields.io/badge/%23patient--engagement-7B9985?style=flat-square" />
+  <img alt="#clinical-research" src="https://img.shields.io/badge/%23clinical--research-788882?style=flat-square" />
+  <img alt="#data-harmonization" src="https://img.shields.io/badge/%23data--harmonization-889F8A?style=flat-square" />
+  <img alt="#health-data" src="https://img.shields.io/badge/%23health--data-A99F96?style=flat-square" />
+  <img alt="#digital-health" src="https://img.shields.io/badge/%23digital--health-C0BDA5?style=flat-square" />
+  <img alt="#knowledge-systems" src="https://img.shields.io/badge/%23knowledge--systems-71677C?style=flat-square" />
+  <img alt="#knowledge-management" src="https://img.shields.io/badge/%23knowledge--management-83626D?style=flat-square" />
+  <img alt="#metadata-driven" src="https://img.shields.io/badge/%23metadata--driven-B9826D?style=flat-square" />
+  <img alt="#system-architecture" src="https://img.shields.io/badge/%23system--architecture-945D5E?style=flat-square" />
+  <img alt="#interoperability" src="https://img.shields.io/badge/%23interoperability-DDA77B?style=flat-square" />
+  <img alt="#open-science" src="https://img.shields.io/badge/%23open--science-C6AA9A?style=flat-square" />
+  <img alt="#open-source" src="https://img.shields.io/badge/%23open--source-CC978E?style=flat-square" />
+  <img alt="#local-first" src="https://img.shields.io/badge/%23local--first-261447?style=flat-square" />
+  <img alt="#automation" src="https://img.shields.io/badge/%23automation-F39C6B?style=flat-square" />
+</p>
 
 </div>
 
