@@ -108,22 +108,15 @@ Multidisciplinary professional with experience in research coordination, digital
   <a href="https://github.com/PtiCalin">
     <img src="https://komarev.com/ghpvc/?username=PtiCalin&label=Profile%20Views&color=94A48F&style=flat-square" alt="Profile Views" />
   </a>
-  <br><br>
+
+<!-- Streak -->
+  <a href="https://github.com/PtiCalin">
+    <img src="https://streak-stats.demolab.com?user=PtiCalin&background=1F2A2A&border=4A5A57&stroke=94A48F&ring=DDA77B&fire=F39C6B&currStreakNum=E3E0D8&currStreakLabel=94A48F&sideNums=C6AA9A&sideLabels=94A48F&dates=A99F96&border_radius=12" alt="GitHub Streak" />
+  </a>
 
  <!-- GitHub Stats -->
   <a href="https://github.com/PtiCalin">
-    <img src="https://github-readme-stats.vercel.app/api?username=PtiCalin&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide=issues&bg_color=1F2A2A&title_color=94A48F&text_color=E3E0D8&icon_color=DDA77B&border_color=4A5A57&border_radius=12" alt="GitHub Stats" />
-  </a>
-
- <!-- Streak -->
-  <a href="https://github.com/PtiCalin">
-    <img src="https://streak-stats.demolab.com?user=PtiCalin&background=1F2A2A&border=4A5A57&stroke=94A48F&ring=DDA77B&fire=F39C6B&currStreakNum=E3E0D8&currStreakLabel=94A48F&sideNums=C6AA9A&sideLabels=94A48F&dates=A99F96" alt="GitHub Streak" />
-  </a>
-  <br><br>
-
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://trophy.ryglcloud.net/?username=PtiCalin&no-frame=true&no-bg=true&column=3&line=5&margin-w=10&margin-h=10&theme=chalk" alt="GitHub Trophies"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=PtiCalin&rank=default&show_icons=true&include_all_commits=true&count_private=true&hide=issues&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=1F2A2A&title_color=94A48F&text_color=E3E0D8&icon_color=DDA77B&border_color=4A5A57&border_radius=12" alt="GitHub Stats" />
   </a>
 
   <!-- Top Languages -->
@@ -132,6 +125,11 @@ Multidisciplinary professional with experience in research coordination, digital
   <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PtiCalin&bg_color=1F2A2A&color=E3E0D8&line=94A48F&point=DDA77B&area=true&area_color=4A5A57&hide_border=true" alt="Contribution Graph" style="border-radius:12px;" />
   <br><br>
+
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://trophy.ryglcloud.net/?username=PtiCalin&no-frame=true&no-bg=true&column=3&line=5&margin-w=10&margin-h=10&theme=chalk" alt="GitHub Trophies"/>
+  </a>
 
 </p>
 
