@@ -45,6 +45,11 @@ I'm a systems thinker and builder focused on <strong>metadata-driven automation<
 
 **Creative Systems**  Blockchain tutorials, worldbuilding vaults, and experimental prototypes. I blend academic rigor with playful experimentation—documenting everything for portable, auditable knowledge.
 
+#### My Work
+
+I design and ship local-first, modular systems that connect research, personal knowledge, and developer workflows. The core problems I am trying to fix are fragmented information across tools, repetitive manual processes, and low-trust pipelines that are hard to reproduce or audit. My projects focus on turning scattered notes and datasets into structured, interoperable, and automation-ready systems that reduce friction, improve clarity, and make collaboration easier.
+
+
 **Current Roles**
 - Université de Montréal, Informatics Student 2025-present
 - McGill University Health Centre, Medical Administrator, 2024-present
@@ -123,7 +128,7 @@ Multidisciplinary professional with experience in research coordination, digital
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PtiCalin&layout=compact&langs_count=20&bg_color=1F2A2A&title_color=94A48F&text_color=E3E0D8&border_color=4A5A57&border_radius=12" alt="Top Languages" />
 
   <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PtiCalin&bg_color=1F2A2A&color=E3E0D8&line=94A48F&point=DDA77B&area=true&area_color=4A5A57&hide_border=true" alt="Contribution Graph" style="border-radius:12px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PtiCalin&bg_color=1F2A2A&color=E3E0D8&line=94A48F&point=DDA77B&area=true&area_color=4A5A57&&border_color=4A5A57&border_radius=12" alt="Contribution Graph" style="border-radius:12px;" />
   <br><br>
 
   <!-- GitHub Trophies -->
